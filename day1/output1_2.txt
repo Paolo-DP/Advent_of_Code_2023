@@ -1,0 +1,5003 @@
+Current Line:	sq5fivetwothree1
+Length:			16
+Digits are 5, 1
+Calibration num: 51
+Current Sum = 51
+Current Line:	six5gc
+Length:			6
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 106
+Current Line:	txb3qfzsbzbxlzslfourone1vqxgfive
+Length:			32
+Digits are 3, 1
+Calibration num: 31
+Current Sum = 137
+Current Line:	3onethreebrth
+Length:			13
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 170
+Current Line:	cseven7nqqxnkzngndtddfiverkxkxqjjsr
+Length:			35
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 247
+Current Line:	2lvpmzh4
+Length:			8
+Digits are 2, 4
+Calibration num: 24
+Current Sum = 271
+Current Line:	threeqxqndvjrz15
+Length:			16
+Digits are 1, 5
+Calibration num: 15
+Current Sum = 286
+Current Line:	threetwo1drtzsixtwofourppvg
+Length:			27
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 297
+Current Line:	zxhsndseven2vbnhdtfpr3bt86
+Length:			26
+Digits are 2, 6
+Calibration num: 26
+Current Sum = 323
+Current Line:	onethreelqqqqvj7eightnine5
+Length:			26
+Digits are 7, 5
+Calibration num: 75
+Current Sum = 398
+Current Line:	7sevenfour5gnine
+Length:			16
+Digits are 7, 5
+Calibration num: 75
+Current Sum = 473
+Current Line:	1seven5
+Length:			7
+Digits are 1, 5
+Calibration num: 15
+Current Sum = 488
+Current Line:	vgxhqfrvr7vfsxqms3
+Length:			18
+Digits are 7, 3
+Calibration num: 73
+Current Sum = 561
+Current Line:	twokdkcbhtqxfc87rkgctwo
+Length:			23
+Digits are 8, 7
+Calibration num: 87
+Current Sum = 648
+Current Line:	twosix9threernltgbffour
+Length:			23
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 747
+Current Line:	npvzzqfb5tbbn4cnt
+Length:			17
+Digits are 5, 4
+Calibration num: 54
+Current Sum = 801
+Current Line:	jjxlckssjmdkm5szklnq1two
+Length:			24
+Digits are 5, 1
+Calibration num: 51
+Current Sum = 852
+Current Line:	lblcscglvseven53251zzcj
+Length:			23
+Digits are 5, 1
+Calibration num: 51
+Current Sum = 903
+Current Line:	threesevenzplpzlqb1
+Length:			19
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 914
+Current Line:	threeeightxhrkflkbzp2
+Length:			21
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 936
+Current Line:	honemkmbfbnlhtbq19twonekbp
+Length:			26
+Digits are 1, 9
+Calibration num: 19
+Current Sum = 955
+Current Line:	vdttwoeight7eightoneone6vq
+Length:			26
+Digits are 7, 6
+Calibration num: 76
+Current Sum = 1031
+Current Line:	eightvszlvntpfourjqcgmjr3
+Length:			25
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 1064
+Current Line:	dslqnmd7k1twogbvhhnfmtsix
+Length:			25
+Digits are 7, 1
+Calibration num: 71
+Current Sum = 1135
+Current Line:	twocsnn7jslpsppxmjr36eightss
+Length:			28
+Digits are 7, 6
+Calibration num: 76
+Current Sum = 1211
+Current Line:	7eightrdcz74twolvd2cctg
+Length:			23
+Digits are 7, 2
+Calibration num: 72
+Current Sum = 1283
+Current Line:	4threerrqxpmmzhrqht4two2
+Length:			24
+Digits are 4, 2
+Calibration num: 42
+Current Sum = 1325
+Current Line:	2seven9two
+Length:			10
+Digits are 2, 9
+Calibration num: 29
+Current Sum = 1354
+Current Line:	479
+Length:			3
+Digits are 4, 9
+Calibration num: 49
+Current Sum = 1403
+Current Line:	threefour86
+Length:			11
+Digits are 8, 6
+Calibration num: 86
+Current Sum = 1489
+Current Line:	5klxgb1
+Length:			7
+Digits are 5, 1
+Calibration num: 51
+Current Sum = 1540
+Current Line:	dchrpzkfpgqzgjmpdcthreeeightsix82five
+Length:			37
+Digits are 8, 2
+Calibration num: 82
+Current Sum = 1622
+Current Line:	seven5tcls
+Length:			10
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 1677
+Current Line:	six5three2six888zd
+Length:			18
+Digits are 5, 8
+Calibration num: 58
+Current Sum = 1735
+Current Line:	75nine274sbzd
+Length:			13
+Digits are 7, 4
+Calibration num: 74
+Current Sum = 1809
+Current Line:	seven7691dzflbg7seven
+Length:			21
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 1886
+Current Line:	bjtrrvpx954lxr1qlqdvbldpt
+Length:			25
+Digits are 9, 1
+Calibration num: 91
+Current Sum = 1977
+Current Line:	zthree4
+Length:			7
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 2021
+Current Line:	sixfourfour68
+Length:			13
+Digits are 6, 8
+Calibration num: 68
+Current Sum = 2089
+Current Line:	fourrjgvksixtwongbvkpff9
+Length:			24
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 2188
+Current Line:	3seventwo
+Length:			9
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 2221
+Current Line:	bzqqjtqvfssevenonenqzctcgbch9three5
+Length:			35
+Digits are 9, 5
+Calibration num: 95
+Current Sum = 2316
+Current Line:	4fourseventhreeck
+Length:			17
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 2360
+Current Line:	mx5njh2
+Length:			7
+Digits are 5, 2
+Calibration num: 52
+Current Sum = 2412
+Current Line:	1onebqkdcbmvrknghnn5frdjtrq
+Length:			27
+Digits are 1, 5
+Calibration num: 15
+Current Sum = 2427
+Current Line:	one1nineflfp957vkdgfrjtfive
+Length:			27
+Digits are 1, 7
+Calibration num: 17
+Current Sum = 2444
+Current Line:	7eight7fiveeight
+Length:			16
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 2521
+Current Line:	zzxrsrp313
+Length:			10
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 2554
+Current Line:	1sixcksrxn4
+Length:			11
+Digits are 1, 4
+Calibration num: 14
+Current Sum = 2568
+Current Line:	ggqvtwofrrfdhbsdfdpzpbjjckbrg5ninebqszf
+Length:			39
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 2623
+Current Line:	pxjcgc2ggqscglhjpbpr6seven
+Length:			26
+Digits are 2, 6
+Calibration num: 26
+Current Sum = 2649
+Current Line:	sixsix7twofivexgdm
+Length:			18
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 2726
+Current Line:	four4eightseventjsqlbhrzvsevenfivesix3
+Length:			38
+Digits are 4, 3
+Calibration num: 43
+Current Sum = 2769
+Current Line:	twotwo8chjmb
+Length:			12
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 2857
+Current Line:	dknnleightmmmmrmcrnr8
+Length:			21
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 2945
+Current Line:	twogzdgdqhrs3836
+Length:			16
+Digits are 3, 6
+Calibration num: 36
+Current Sum = 2981
+Current Line:	ninebsztzhbqjvlbvhdktqjc6hpqcksfive6
+Length:			36
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 3047
+Current Line:	twofive1nqdxdvvtvf4oneone2two
+Length:			29
+Digits are 1, 2
+Calibration num: 12
+Current Sum = 3059
+Current Line:	1eight8nkmhcfvzn
+Length:			16
+Digits are 1, 8
+Calibration num: 18
+Current Sum = 3077
+Current Line:	dzmkzzx4lfljtzp95seven4qqnpjdtr
+Length:			31
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 3121
+Current Line:	one7sevenninepsdgrjkxgdchjtxrx
+Length:			30
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 3198
+Current Line:	fnltdcxqln314nine7n
+Length:			19
+Digits are 3, 7
+Calibration num: 37
+Current Sum = 3235
+Current Line:	three7sjgtnxgtllnpndfourfiveseven4
+Length:			34
+Digits are 7, 4
+Calibration num: 74
+Current Sum = 3309
+Current Line:	64snine7
+Length:			8
+Digits are 6, 7
+Calibration num: 67
+Current Sum = 3376
+Current Line:	ppjlpsnsbmthfivelffive59hsnmn2
+Length:			30
+Digits are 5, 2
+Calibration num: 52
+Current Sum = 3428
+Current Line:	sevenqftktpnj6
+Length:			14
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 3494
+Current Line:	ninethreetbgprvchxlnmfs3fourhmcz
+Length:			32
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 3527
+Current Line:	xhl1
+Length:			4
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 3538
+Current Line:	4qgf
+Length:			4
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 3582
+Current Line:	1qbhrmfcffivedgtfour
+Length:			20
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 3593
+Current Line:	eight86bcqskslkvlgone7gg
+Length:			24
+Digits are 8, 7
+Calibration num: 87
+Current Sum = 3680
+Current Line:	6pccldrtmsdbbrcbcq86
+Length:			20
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 3746
+Current Line:	ppzrxtsix94jplxff11
+Length:			19
+Digits are 9, 1
+Calibration num: 91
+Current Sum = 3837
+Current Line:	786seventwoonezvnqrsix
+Length:			22
+Digits are 7, 6
+Calibration num: 76
+Current Sum = 3913
+Current Line:	7threeseventsjcdr
+Length:			17
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 3990
+Current Line:	fivebfive3nineffcbzprh
+Length:			22
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 4023
+Current Line:	4glxskdkjn
+Length:			10
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 4067
+Current Line:	n8
+Length:			2
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 4155
+Current Line:	kzcvdtbq49
+Length:			10
+Digits are 4, 9
+Calibration num: 49
+Current Sum = 4204
+Current Line:	7xvqxmhcfkkffnine93
+Length:			19
+Digits are 7, 3
+Calibration num: 73
+Current Sum = 4277
+Current Line:	hhzmdnzktbtwojvlckvjsixeightone9rxqb
+Length:			36
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 4376
+Current Line:	one3sqckgps8
+Length:			12
+Digits are 3, 8
+Calibration num: 38
+Current Sum = 4414
+Current Line:	lscdfp8eightcgdvgssveightdldsreight
+Length:			35
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 4502
+Current Line:	jhjsltwoeight1one
+Length:			17
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 4513
+Current Line:	6trxnfcqdmlrmf3three
+Length:			20
+Digits are 6, 3
+Calibration num: 63
+Current Sum = 4576
+Current Line:	one1kdclsglmsjmczsksdfour
+Length:			25
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 4587
+Current Line:	sevensevenshlhsvtl8three
+Length:			24
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 4675
+Current Line:	four522sevenfourcrthhhvkj
+Length:			25
+Digits are 5, 2
+Calibration num: 52
+Current Sum = 4727
+Current Line:	197stxphm8
+Length:			10
+Digits are 1, 8
+Calibration num: 18
+Current Sum = 4745
+Current Line:	8sixtwoseven6five
+Length:			17
+Digits are 8, 6
+Calibration num: 86
+Current Sum = 4831
+Current Line:	zjdhldjcqctkltggninesl6stplglmkn
+Length:			32
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 4897
+Current Line:	6onesixrhmjvtcmbh
+Length:			17
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 4963
+Current Line:	fivehnj8dninefourfive3
+Length:			22
+Digits are 8, 3
+Calibration num: 83
+Current Sum = 5046
+Current Line:	4fourfncsrhf73
+Length:			14
+Digits are 4, 3
+Calibration num: 43
+Current Sum = 5089
+Current Line:	nbcjqhlckonemdbcsvfsixvm3one
+Length:			28
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 5122
+Current Line:	7seven6seven
+Length:			12
+Digits are 7, 6
+Calibration num: 76
+Current Sum = 5198
+Current Line:	fournfive6four9
+Length:			15
+Digits are 6, 9
+Calibration num: 69
+Current Sum = 5267
+Current Line:	6brzhdxzmtxfoureightxg6onetwo
+Length:			29
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 5333
+Current Line:	5sixmmddqgpdnq4
+Length:			15
+Digits are 5, 4
+Calibration num: 54
+Current Sum = 5387
+Current Line:	6ndzzhlrdjxjqfxvss
+Length:			18
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 5453
+Current Line:	gkvoneight29two
+Length:			15
+Digits are 2, 9
+Calibration num: 29
+Current Sum = 5482
+Current Line:	4threethree
+Length:			11
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 5526
+Current Line:	eightsznbxf8fiveninetwo9vgfbv
+Length:			29
+Digits are 8, 9
+Calibration num: 89
+Current Sum = 5615
+Current Line:	8kzkmqncfhssjblmfd7hdmpkghsz9mmbsbjdxdlfmnxfour
+Length:			47
+Digits are 8, 9
+Calibration num: 89
+Current Sum = 5704
+Current Line:	four2threeeight19bx
+Length:			19
+Digits are 2, 9
+Calibration num: 29
+Current Sum = 5733
+Current Line:	1oneseven
+Length:			9
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 5744
+Current Line:	fh5
+Length:			3
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 5799
+Current Line:	615zkzg
+Length:			7
+Digits are 6, 5
+Calibration num: 65
+Current Sum = 5864
+Current Line:	25six2mrtjthree
+Length:			15
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 5886
+Current Line:	jvvmbfzr3seven7xjbhvvvhlz38ninejk
+Length:			33
+Digits are 3, 8
+Calibration num: 38
+Current Sum = 5924
+Current Line:	vzjthjkrcc5six3rrnrseven
+Length:			24
+Digits are 5, 3
+Calibration num: 53
+Current Sum = 5977
+Current Line:	rjthree3szfourbnvnbh7hgjzcrhfptmlghkk
+Length:			37
+Digits are 3, 7
+Calibration num: 37
+Current Sum = 6014
+Current Line:	tgjtdsnqrq39seven3hgqc9
+Length:			23
+Digits are 3, 9
+Calibration num: 39
+Current Sum = 6053
+Current Line:	1vttzfour9
+Length:			10
+Digits are 1, 9
+Calibration num: 19
+Current Sum = 6072
+Current Line:	6vbtcqmpk213sixzmjcnxn9qhdgr
+Length:			28
+Digits are 6, 9
+Calibration num: 69
+Current Sum = 6141
+Current Line:	3sffvspzmxjjfourjxjbbdfj5
+Length:			25
+Digits are 3, 5
+Calibration num: 35
+Current Sum = 6176
+Current Line:	bdhj9lz1np7tvmfvptffhfdtbxld
+Length:			28
+Digits are 9, 7
+Calibration num: 97
+Current Sum = 6273
+Current Line:	kbkxldln99onetwoseven3
+Length:			22
+Digits are 9, 3
+Calibration num: 93
+Current Sum = 6366
+Current Line:	rvsthree9seven4seventwo
+Length:			23
+Digits are 9, 4
+Calibration num: 94
+Current Sum = 6460
+Current Line:	32zbjmhr
+Length:			8
+Digits are 3, 2
+Calibration num: 32
+Current Sum = 6492
+Current Line:	eightfffkdgjqspgzmkvzxpls4one
+Length:			29
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 6536
+Current Line:	three1kxqr21ninemhrmheightwoc
+Length:			29
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 6547
+Current Line:	fqjvtsph8zpghgdbxrg4
+Length:			20
+Digits are 8, 4
+Calibration num: 84
+Current Sum = 6631
+Current Line:	398seven
+Length:			8
+Digits are 3, 8
+Calibration num: 38
+Current Sum = 6669
+Current Line:	bnine1two5756
+Length:			13
+Digits are 1, 6
+Calibration num: 16
+Current Sum = 6685
+Current Line:	7xkqkxjjvmd2n77
+Length:			15
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 6762
+Current Line:	9seven79foursxdqcvttwo
+Length:			22
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 6861
+Current Line:	6d6zfxcmrzsixgmlqnfdn
+Length:			21
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 6927
+Current Line:	kfhreightfnhcxpcrz9hqrqtmknpjxrt4hrk
+Length:			36
+Digits are 9, 4
+Calibration num: 94
+Current Sum = 7021
+Current Line:	seventhreeoneone4nngnlz37
+Length:			25
+Digits are 4, 7
+Calibration num: 47
+Current Sum = 7068
+Current Line:	fphhxfs8jzkchp8twotjznmlxhht
+Length:			28
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 7156
+Current Line:	474
+Length:			3
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 7200
+Current Line:	58eightnzxfgndgdvbvphzsqxqcffdqsvxtwo
+Length:			37
+Digits are 5, 8
+Calibration num: 58
+Current Sum = 7258
+Current Line:	3two5xvjjthreetmszrldjlknq
+Length:			26
+Digits are 3, 5
+Calibration num: 35
+Current Sum = 7293
+Current Line:	1nine7
+Length:			6
+Digits are 1, 7
+Calibration num: 17
+Current Sum = 7310
+Current Line:	29kfrrdxvrmgjvfpqjcqlplfhrxpklzcrvndmdhjhninejhmph4
+Length:			51
+Digits are 2, 4
+Calibration num: 24
+Current Sum = 7334
+Current Line:	fzbq39bs
+Length:			8
+Digits are 3, 9
+Calibration num: 39
+Current Sum = 7373
+Current Line:	85eight29fiveccsrvsixfive
+Length:			25
+Digits are 8, 9
+Calibration num: 89
+Current Sum = 7462
+Current Line:	sggksrnseven28ninesixnine
+Length:			25
+Digits are 2, 8
+Calibration num: 28
+Current Sum = 7490
+Current Line:	bggkmnrbjknxqfgttxsixnine4
+Length:			26
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 7534
+Current Line:	73nfive
+Length:			7
+Digits are 7, 3
+Calibration num: 73
+Current Sum = 7607
+Current Line:	fivefourgscsevencntfpzzrnineprdjqdbmq5
+Length:			38
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 7662
+Current Line:	6four2oneeightljstfshztx9
+Length:			25
+Digits are 6, 9
+Calibration num: 69
+Current Sum = 7731
+Current Line:	sevenzkdqst6jncvcblb
+Length:			20
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 7797
+Current Line:	dxrnzlsix5
+Length:			10
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 7852
+Current Line:	two1tmhmg4four
+Length:			14
+Digits are 1, 4
+Calibration num: 14
+Current Sum = 7866
+Current Line:	2mzfnc5threefourthreesixfivezq
+Length:			30
+Digits are 2, 5
+Calibration num: 25
+Current Sum = 7891
+Current Line:	jeightwo3jfzqdtjzschpzrj2
+Length:			25
+Digits are 3, 2
+Calibration num: 32
+Current Sum = 7923
+Current Line:	5ccchkjzvqh7
+Length:			12
+Digits are 5, 7
+Calibration num: 57
+Current Sum = 7980
+Current Line:	jdpnjqg3five48xmmptkzmvg
+Length:			24
+Digits are 3, 8
+Calibration num: 38
+Current Sum = 8018
+Current Line:	rgn146nineseven4six
+Length:			19
+Digits are 1, 4
+Calibration num: 14
+Current Sum = 8032
+Current Line:	eightonetwohsxms8six94
+Length:			22
+Digits are 8, 4
+Calibration num: 84
+Current Sum = 8116
+Current Line:	eight4znfqgsftghtrhfkvj
+Length:			23
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 8160
+Current Line:	btmk5834eight8mlcccnrzrb
+Length:			24
+Digits are 5, 8
+Calibration num: 58
+Current Sum = 8218
+Current Line:	15ninemhmhmqlb
+Length:			14
+Digits are 1, 5
+Calibration num: 15
+Current Sum = 8233
+Current Line:	85skmrvhl74
+Length:			11
+Digits are 8, 4
+Calibration num: 84
+Current Sum = 8317
+Current Line:	dbvhkthj4
+Length:			9
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 8361
+Current Line:	one6keight
+Length:			10
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 8427
+Current Line:	sixfourtwosevennine7tfrqgk8five
+Length:			31
+Digits are 7, 8
+Calibration num: 78
+Current Sum = 8505
+Current Line:	seven1kxcqbm1
+Length:			13
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 8516
+Current Line:	tmpl56rz27qfdfour
+Length:			17
+Digits are 5, 7
+Calibration num: 57
+Current Sum = 8573
+Current Line:	3eightggcjbnktmbqfivefdmczl
+Length:			27
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 8606
+Current Line:	b2threethreemnxdhrzsxqhchzbnvhppdcqcffour
+Length:			41
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 8628
+Current Line:	htpgc4blggnnzts3four7
+Length:			21
+Digits are 4, 7
+Calibration num: 47
+Current Sum = 8675
+Current Line:	8sixbdntsg33njhtnsnsix
+Length:			22
+Digits are 8, 3
+Calibration num: 83
+Current Sum = 8758
+Current Line:	fourfour5seven3threesevensix
+Length:			28
+Digits are 5, 3
+Calibration num: 53
+Current Sum = 8811
+Current Line:	78eightsevenone
+Length:			15
+Digits are 7, 8
+Calibration num: 78
+Current Sum = 8889
+Current Line:	four5threefive
+Length:			14
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 8944
+Current Line:	cjqbcfjnbf2six
+Length:			14
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 8966
+Current Line:	five9ninesixonejdnsvcfive
+Length:			25
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 9065
+Current Line:	rvrf9cjl3eightfvrzpjnxr
+Length:			23
+Digits are 9, 3
+Calibration num: 93
+Current Sum = 9158
+Current Line:	threeseven5
+Length:			11
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 9213
+Current Line:	vxvmpkffrtwo9twofivesix
+Length:			23
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 9312
+Current Line:	67xnrcxsp9rk
+Length:			12
+Digits are 6, 9
+Calibration num: 69
+Current Sum = 9381
+Current Line:	mvzdgqgrv77
+Length:			11
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 9458
+Current Line:	one42qkfp
+Length:			9
+Digits are 4, 2
+Calibration num: 42
+Current Sum = 9500
+Current Line:	1vtq
+Length:			4
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 9511
+Current Line:	225eightworbm
+Length:			13
+Digits are 2, 5
+Calibration num: 25
+Current Sum = 9536
+Current Line:	three9onefive
+Length:			13
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 9635
+Current Line:	qxoneighteightzxlfksc3oneeight2
+Length:			31
+Digits are 3, 2
+Calibration num: 32
+Current Sum = 9667
+Current Line:	mnqjhg6ffbhzcsixtrbfr744zlg
+Length:			27
+Digits are 6, 4
+Calibration num: 64
+Current Sum = 9731
+Current Line:	8nine7
+Length:			6
+Digits are 8, 7
+Calibration num: 87
+Current Sum = 9818
+Current Line:	fivergqn2seven
+Length:			14
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 9840
+Current Line:	44gpslt6nine6
+Length:			13
+Digits are 4, 6
+Calibration num: 46
+Current Sum = 9886
+Current Line:	1six98fsgthctwoseven
+Length:			20
+Digits are 1, 8
+Calibration num: 18
+Current Sum = 9904
+Current Line:	ldrqsbjrtnlj6lqgptgplbsnhrhpsixzqgpzkxone
+Length:			41
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 9970
+Current Line:	7knxhcfjvshqsxsqrponeightld
+Length:			27
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 10047
+Current Line:	zsixsjbltfournzndqbqd2rone
+Length:			26
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 10069
+Current Line:	qpnvkqmdthree3234ninefour4
+Length:			26
+Digits are 3, 4
+Calibration num: 34
+Current Sum = 10103
+Current Line:	cdnhqqxxp2two6six
+Length:			17
+Digits are 2, 6
+Calibration num: 26
+Current Sum = 10129
+Current Line:	five9354xnbjjx
+Length:			14
+Digits are 9, 4
+Calibration num: 94
+Current Sum = 10223
+Current Line:	9eightsix4jjjeighttprrhqvqlt5
+Length:			29
+Digits are 9, 5
+Calibration num: 95
+Current Sum = 10318
+Current Line:	lkcfmvtonexklgknxxsglcd5znseventwo
+Length:			34
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 10373
+Current Line:	four31nine56pmh
+Length:			15
+Digits are 3, 6
+Calibration num: 36
+Current Sum = 10409
+Current Line:	eight96tb5t2nineoneightrlb
+Length:			26
+Digits are 9, 2
+Calibration num: 92
+Current Sum = 10501
+Current Line:	fourncvgmslx695twobdklqzfour
+Length:			28
+Digits are 6, 5
+Calibration num: 65
+Current Sum = 10566
+Current Line:	8fiveq75four
+Length:			12
+Digits are 8, 5
+Calibration num: 85
+Current Sum = 10651
+Current Line:	5six9fourfour59seven1
+Length:			21
+Digits are 5, 1
+Calibration num: 51
+Current Sum = 10702
+Current Line:	eight2bqtqdjsvkkjfive81vpkvmbpxcp
+Length:			33
+Digits are 2, 1
+Calibration num: 21
+Current Sum = 10723
+Current Line:	nvxvgqhfouronefive4sixpqckgf
+Length:			28
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 10767
+Current Line:	25onetwotwo
+Length:			11
+Digits are 2, 5
+Calibration num: 25
+Current Sum = 10792
+Current Line:	seventhreezkntcmjqeight493three9
+Length:			32
+Digits are 4, 9
+Calibration num: 49
+Current Sum = 10841
+Current Line:	ptd58qrtfqj
+Length:			11
+Digits are 5, 8
+Calibration num: 58
+Current Sum = 10899
+Current Line:	2985lvlvlrfzrjmfqbrmgtonejxtgpspjnx2
+Length:			36
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 10921
+Current Line:	6qbzxqvx
+Length:			8
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 10987
+Current Line:	three81btcngfkjj28seven
+Length:			23
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 11075
+Current Line:	36six8
+Length:			6
+Digits are 3, 8
+Calibration num: 38
+Current Sum = 11113
+Current Line:	5gzthcpffr2
+Length:			11
+Digits are 5, 2
+Calibration num: 52
+Current Sum = 11165
+Current Line:	6kqtntqrzxsgksevengnzthree33
+Length:			28
+Digits are 6, 3
+Calibration num: 63
+Current Sum = 11228
+Current Line:	87fmnvqpczzhone5seven
+Length:			21
+Digits are 8, 5
+Calibration num: 85
+Current Sum = 11313
+Current Line:	nine2cxpmrhp
+Length:			12
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 11335
+Current Line:	vt46xflbjdkkb7seven
+Length:			19
+Digits are 4, 7
+Calibration num: 47
+Current Sum = 11382
+Current Line:	eightrgthreethree98fourhgcqjgzclc
+Length:			33
+Digits are 9, 8
+Calibration num: 98
+Current Sum = 11480
+Current Line:	5nfsbcvmfv484fxjtwothreefive
+Length:			28
+Digits are 5, 4
+Calibration num: 54
+Current Sum = 11534
+Current Line:	nhvcn4glfxtkfttthree
+Length:			20
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 11578
+Current Line:	6five9qznggpkflhzht7zhjjone
+Length:			27
+Digits are 6, 7
+Calibration num: 67
+Current Sum = 11645
+Current Line:	ddzghtvmp78five4gzfnnkc
+Length:			23
+Digits are 7, 4
+Calibration num: 74
+Current Sum = 11719
+Current Line:	sflvnzkrjtonenplrbkzxmt9fhfdzxrfjrtwomctkrlkhghfpcmkn7
+Length:			54
+Digits are 9, 7
+Calibration num: 97
+Current Sum = 11816
+Current Line:	sjxspdjhg96three112jz
+Length:			21
+Digits are 9, 2
+Calibration num: 92
+Current Sum = 11908
+Current Line:	xdbgzlfour2twosevenzfdtvxq6
+Length:			27
+Digits are 2, 6
+Calibration num: 26
+Current Sum = 11934
+Current Line:	gdtnt2fivelscmsix
+Length:			17
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 11956
+Current Line:	9threefkjkrskxrcjsbthree
+Length:			24
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 12055
+Current Line:	ninepmqbdmlkrmfhpgsz3twothree
+Length:			29
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 12088
+Current Line:	onebgtdg5mqrfxvnfkseven
+Length:			23
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 12143
+Current Line:	6m949fivezthrbbkqfd
+Length:			19
+Digits are 6, 9
+Calibration num: 69
+Current Sum = 12212
+Current Line:	2five94threeone
+Length:			15
+Digits are 2, 4
+Calibration num: 24
+Current Sum = 12236
+Current Line:	eight8four42vb
+Length:			14
+Digits are 8, 2
+Calibration num: 82
+Current Sum = 12318
+Current Line:	2ninetwo
+Length:			8
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 12340
+Current Line:	17two9nine
+Length:			10
+Digits are 1, 9
+Calibration num: 19
+Current Sum = 12359
+Current Line:	3pdmsixfouronethreesixfiveb
+Length:			27
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 12392
+Current Line:	five1two5
+Length:			9
+Digits are 1, 5
+Calibration num: 15
+Current Sum = 12407
+Current Line:	nine4four
+Length:			9
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 12451
+Current Line:	three5lktjmlnbph
+Length:			16
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 12506
+Current Line:	eight6onelrdlsevenj1zmmbtjrd
+Length:			28
+Digits are 6, 1
+Calibration num: 61
+Current Sum = 12567
+Current Line:	tkjhgvnpkvgsqzjrnine2hltwotwo
+Length:			29
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 12589
+Current Line:	89xfpxgdlcpznxxfnpbzbzseven
+Length:			27
+Digits are 8, 9
+Calibration num: 89
+Current Sum = 12678
+Current Line:	293threej7four94
+Length:			16
+Digits are 2, 4
+Calibration num: 24
+Current Sum = 12702
+Current Line:	v63
+Length:			3
+Digits are 6, 3
+Calibration num: 63
+Current Sum = 12765
+Current Line:	pxccbml6sixhqnhmrfive
+Length:			21
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 12831
+Current Line:	kddsix4fouronevtrgbvtxxxsix3one
+Length:			31
+Digits are 4, 3
+Calibration num: 43
+Current Sum = 12874
+Current Line:	5bxqjkdhthree
+Length:			13
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 12929
+Current Line:	six4threezgg2
+Length:			13
+Digits are 4, 2
+Calibration num: 42
+Current Sum = 12971
+Current Line:	fourtwoeightmftwo99
+Length:			19
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 13070
+Current Line:	t7ninenineeighteight8
+Length:			21
+Digits are 7, 8
+Calibration num: 78
+Current Sum = 13148
+Current Line:	5xvvlnqkjs4
+Length:			11
+Digits are 5, 4
+Calibration num: 54
+Current Sum = 13202
+Current Line:	seven7one
+Length:			9
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 13279
+Current Line:	vqfhpk7hnthreeseven42
+Length:			21
+Digits are 7, 2
+Calibration num: 72
+Current Sum = 13351
+Current Line:	7threef2two92
+Length:			13
+Digits are 7, 2
+Calibration num: 72
+Current Sum = 13423
+Current Line:	2onefourckbrvqzq9
+Length:			17
+Digits are 2, 9
+Calibration num: 29
+Current Sum = 13452
+Current Line:	tvvdxrvthree2
+Length:			13
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 13474
+Current Line:	seven1fourbvmfzftwortnjd16
+Length:			26
+Digits are 1, 6
+Calibration num: 16
+Current Sum = 13490
+Current Line:	pmttpsggb134mlffcsnbftwox1
+Length:			26
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 13501
+Current Line:	2dzpvqtcxjfour5pgppvbk
+Length:			22
+Digits are 2, 5
+Calibration num: 25
+Current Sum = 13526
+Current Line:	9jfscbjzq
+Length:			9
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 13625
+Current Line:	fiveninefivethreexdtgnbdfp5onefive
+Length:			34
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 13680
+Current Line:	six1927
+Length:			7
+Digits are 1, 7
+Calibration num: 17
+Current Sum = 13697
+Current Line:	one1xjjkvkkfk1zxxrjhkg3sixmhcgc
+Length:			31
+Digits are 1, 3
+Calibration num: 13
+Current Sum = 13710
+Current Line:	7fivetnncl5
+Length:			11
+Digits are 7, 5
+Calibration num: 75
+Current Sum = 13785
+Current Line:	zbqzdkkthreekzdcbhpveightfourfivemrmpzv3
+Length:			40
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 13818
+Current Line:	twothree51three2phhmrnnhntnine
+Length:			30
+Digits are 5, 2
+Calibration num: 52
+Current Sum = 13870
+Current Line:	bfzzqmthtgthree4sjzkmtrnplbxeight2eighthj
+Length:			41
+Digits are 4, 2
+Calibration num: 42
+Current Sum = 13912
+Current Line:	nqsflrlmlthreemdzztlghgj5xcj
+Length:			28
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 13967
+Current Line:	fdtflsqrxltwohcvsnrndmsixeight7
+Length:			31
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 14044
+Current Line:	fourbmlftwo2mzz8
+Length:			16
+Digits are 2, 8
+Calibration num: 28
+Current Sum = 14072
+Current Line:	pjjqzmsx4ksix
+Length:			13
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 14116
+Current Line:	six1219one6seven1
+Length:			17
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 14127
+Current Line:	gthznkpp31
+Length:			10
+Digits are 3, 1
+Calibration num: 31
+Current Sum = 14158
+Current Line:	nine4four32
+Length:			11
+Digits are 4, 2
+Calibration num: 42
+Current Sum = 14200
+Current Line:	xktzkqmmxct6fkhpkg
+Length:			18
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 14266
+Current Line:	one5688sevenvjjthreefsvxt
+Length:			25
+Digits are 5, 8
+Calibration num: 58
+Current Sum = 14324
+Current Line:	36twonine
+Length:			9
+Digits are 3, 6
+Calibration num: 36
+Current Sum = 14360
+Current Line:	3fpdqtzrd3tslzgkjzxd5
+Length:			21
+Digits are 3, 5
+Calibration num: 35
+Current Sum = 14395
+Current Line:	bsevendpvtmnzl9cqgjfjbzfv222
+Length:			28
+Digits are 9, 2
+Calibration num: 92
+Current Sum = 14487
+Current Line:	lxbhkf2nseven79
+Length:			15
+Digits are 2, 9
+Calibration num: 29
+Current Sum = 14516
+Current Line:	gqckmfeightnknineeightsix45four
+Length:			31
+Digits are 4, 5
+Calibration num: 45
+Current Sum = 14561
+Current Line:	n78
+Length:			3
+Digits are 7, 8
+Calibration num: 78
+Current Sum = 14639
+Current Line:	42nggdthree4threefsxgjsixjdnqzkxdb
+Length:			34
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 14683
+Current Line:	gbfbpjcjnzjrrqmm17473
+Length:			21
+Digits are 1, 3
+Calibration num: 13
+Current Sum = 14696
+Current Line:	1eightzqxxnq
+Length:			12
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 14707
+Current Line:	25twovmnltzx
+Length:			12
+Digits are 2, 5
+Calibration num: 25
+Current Sum = 14732
+Current Line:	seveneight9qtcvzvmone138v
+Length:			25
+Digits are 9, 8
+Calibration num: 98
+Current Sum = 14830
+Current Line:	msixjrqprlnqhdfourjdmsddzseven85
+Length:			32
+Digits are 8, 5
+Calibration num: 85
+Current Sum = 14915
+Current Line:	eightninevvcp2
+Length:			14
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 14937
+Current Line:	mtvvjsck6hgkjml
+Length:			15
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 15003
+Current Line:	121fthreethree
+Length:			14
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 15014
+Current Line:	jncgfj3eightr6
+Length:			14
+Digits are 3, 6
+Calibration num: 36
+Current Sum = 15050
+Current Line:	468four6xdlrgngbhcxbtf
+Length:			22
+Digits are 4, 6
+Calibration num: 46
+Current Sum = 15096
+Current Line:	3nqqgfone
+Length:			9
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 15129
+Current Line:	1zmzjqscfournzbssixeighthmspdbhlpc4
+Length:			35
+Digits are 1, 4
+Calibration num: 14
+Current Sum = 15143
+Current Line:	twoonejmkb8sevenfourseveneightsix
+Length:			33
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 15231
+Current Line:	qxrznqone8z8sevenninesixsc
+Length:			26
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 15319
+Current Line:	jrklnh6threeone
+Length:			15
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 15385
+Current Line:	2xfnbrk6frzsvjhb5sixeight
+Length:			25
+Digits are 2, 5
+Calibration num: 25
+Current Sum = 15410
+Current Line:	ninethree8lbpmqhsppd9fht2ninefql
+Length:			32
+Digits are 8, 2
+Calibration num: 82
+Current Sum = 15492
+Current Line:	7bzcnthreejdh7oneightj
+Length:			22
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 15569
+Current Line:	155twofourthreemfive
+Length:			20
+Digits are 1, 5
+Calibration num: 15
+Current Sum = 15584
+Current Line:	5ninerm
+Length:			7
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 15639
+Current Line:	9lxrfoursixm
+Length:			12
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 15738
+Current Line:	glvxvsbsg7
+Length:			10
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 15815
+Current Line:	jbrbhzrsftwofour1
+Length:			17
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 15826
+Current Line:	two4hkxztgbbgf4ptckpggkbvvj7
+Length:			28
+Digits are 4, 7
+Calibration num: 47
+Current Sum = 15873
+Current Line:	vhqhqghjscvc3rcgttfv
+Length:			20
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 15906
+Current Line:	ninetwo9threemhtsn
+Length:			18
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 16005
+Current Line:	cnxzthgqz6pxfbsmkmm
+Length:			19
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 16071
+Current Line:	45jgrr4ninetwo88
+Length:			16
+Digits are 4, 8
+Calibration num: 48
+Current Sum = 16119
+Current Line:	dkhgscrthreeeightsevenhsxjhr6five
+Length:			33
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 16185
+Current Line:	6nine7vpfbvlvdvzvj
+Length:			18
+Digits are 6, 7
+Calibration num: 67
+Current Sum = 16252
+Current Line:	goneg4threeeightslhlzkpqv2
+Length:			26
+Digits are 4, 2
+Calibration num: 42
+Current Sum = 16294
+Current Line:	sjqgqz8oneglvzn
+Length:			15
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 16382
+Current Line:	crj32neighttvv5
+Length:			15
+Digits are 3, 5
+Calibration num: 35
+Current Sum = 16417
+Current Line:	blqptxbggl6three1two46cbdzt
+Length:			27
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 16483
+Current Line:	vpxnvxkgdmggpnine61
+Length:			19
+Digits are 6, 1
+Calibration num: 61
+Current Sum = 16544
+Current Line:	22kxn
+Length:			5
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 16566
+Current Line:	5zvsmtzqjhhmfsvv4
+Length:			17
+Digits are 5, 4
+Calibration num: 54
+Current Sum = 16620
+Current Line:	dkfknfnjxtzjrbfk1
+Length:			17
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 16631
+Current Line:	67sixzns61sdrpsmjsrftkdgjlb
+Length:			27
+Digits are 6, 1
+Calibration num: 61
+Current Sum = 16692
+Current Line:	6lnffcgtxfivesevenseven8
+Length:			24
+Digits are 6, 8
+Calibration num: 68
+Current Sum = 16760
+Current Line:	px1one96slxflxdfxhninehkcszmdxzbbjmlq
+Length:			37
+Digits are 1, 6
+Calibration num: 16
+Current Sum = 16776
+Current Line:	3sixsevenseven7vlvdlcjhccvmlzcn
+Length:			31
+Digits are 3, 7
+Calibration num: 37
+Current Sum = 16813
+Current Line:	5frrqhseventftbln6
+Length:			18
+Digits are 5, 6
+Calibration num: 56
+Current Sum = 16869
+Current Line:	three23seven7sixv
+Length:			17
+Digits are 2, 7
+Calibration num: 27
+Current Sum = 16896
+Current Line:	ninehscrb9
+Length:			10
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 16995
+Current Line:	fivepvsxqmnbmvgphsevencgkhsnqkz1rxvg8
+Length:			37
+Digits are 1, 8
+Calibration num: 18
+Current Sum = 17013
+Current Line:	pbhsqvdxhf694six66
+Length:			18
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 17079
+Current Line:	four2nineczdtwobjxkfnkbg
+Length:			24
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 17101
+Current Line:	nineml1jbnm6vhpsgmdq2
+Length:			21
+Digits are 1, 2
+Calibration num: 12
+Current Sum = 17113
+Current Line:	three63vgbm
+Length:			11
+Digits are 6, 3
+Calibration num: 63
+Current Sum = 17176
+Current Line:	665
+Length:			3
+Digits are 6, 5
+Calibration num: 65
+Current Sum = 17241
+Current Line:	htd7pvmrpptvtneightnzmngone7
+Length:			28
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 17318
+Current Line:	rfeightgrfffksdfmgclspbp7489
+Length:			28
+Digits are 7, 9
+Calibration num: 79
+Current Sum = 17397
+Current Line:	4fdxcnbfjtbfg63ninefivegkmhgz
+Length:			29
+Digits are 4, 3
+Calibration num: 43
+Current Sum = 17440
+Current Line:	21eight7one39
+Length:			13
+Digits are 2, 9
+Calibration num: 29
+Current Sum = 17469
+Current Line:	foursix8vrzhm
+Length:			13
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 17557
+Current Line:	two8sevendneight
+Length:			16
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 17645
+Current Line:	tncdggvfivekmbljttwo94fivetpstp7
+Length:			32
+Digits are 9, 7
+Calibration num: 97
+Current Sum = 17742
+Current Line:	68seven
+Length:			7
+Digits are 6, 8
+Calibration num: 68
+Current Sum = 17810
+Current Line:	onenxh9eightone
+Length:			15
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 17909
+Current Line:	twothree3threenine4oneightzkr
+Length:			29
+Digits are 3, 4
+Calibration num: 34
+Current Sum = 17943
+Current Line:	onetwosixeightkfxnfnssd5
+Length:			24
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 17998
+Current Line:	eightthree63five8
+Length:			17
+Digits are 6, 8
+Calibration num: 68
+Current Sum = 18066
+Current Line:	6seven7one
+Length:			10
+Digits are 6, 7
+Calibration num: 67
+Current Sum = 18133
+Current Line:	mqkkhbrjjm8v4
+Length:			13
+Digits are 8, 4
+Calibration num: 84
+Current Sum = 18217
+Current Line:	8six2
+Length:			5
+Digits are 8, 2
+Calibration num: 82
+Current Sum = 18299
+Current Line:	threetvbonethreeqmpkxjqlqgghqrlh5sbf3
+Length:			37
+Digits are 5, 3
+Calibration num: 53
+Current Sum = 18352
+Current Line:	blrnd9dkqgjf
+Length:			12
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 18451
+Current Line:	41onervcmkgnpcbx52
+Length:			18
+Digits are 4, 2
+Calibration num: 42
+Current Sum = 18493
+Current Line:	frmdcps8sixtwo4ninefbdjfour2
+Length:			28
+Digits are 8, 2
+Calibration num: 82
+Current Sum = 18575
+Current Line:	8nineninenine
+Length:			13
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 18663
+Current Line:	pkrln2dfrkkntwoonefjsfgx6
+Length:			25
+Digits are 2, 6
+Calibration num: 26
+Current Sum = 18689
+Current Line:	xvrkcmfxpfourfourrxcxqmhfour29ftsfd
+Length:			35
+Digits are 2, 9
+Calibration num: 29
+Current Sum = 18718
+Current Line:	crkmrlrb4fourthreeeightcgk
+Length:			26
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 18762
+Current Line:	7threemrss4eightsevenskjh
+Length:			25
+Digits are 7, 4
+Calibration num: 74
+Current Sum = 18836
+Current Line:	eightsixqppfhv3ztn
+Length:			18
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 18869
+Current Line:	3threeeightseven5
+Length:			17
+Digits are 3, 5
+Calibration num: 35
+Current Sum = 18904
+Current Line:	gkrfhthr12threeeightthree
+Length:			25
+Digits are 1, 2
+Calibration num: 12
+Current Sum = 18916
+Current Line:	8vthczh1
+Length:			8
+Digits are 8, 1
+Calibration num: 81
+Current Sum = 18997
+Current Line:	seven6hfcfmrlkmqxpjq9eightlvlgqmf
+Length:			33
+Digits are 6, 9
+Calibration num: 69
+Current Sum = 19066
+Current Line:	fivednzg85eightseveneightfive
+Length:			29
+Digits are 8, 5
+Calibration num: 85
+Current Sum = 19151
+Current Line:	dz8ssixkbbtgv
+Length:			13
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 19239
+Current Line:	rdmjrcgeight6r
+Length:			14
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 19305
+Current Line:	five6nineonesixrlnhj
+Length:			20
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 19371
+Current Line:	zh127four7two
+Length:			13
+Digits are 1, 7
+Calibration num: 17
+Current Sum = 19388
+Current Line:	six1sevenvmlnvkgcldsrrblfbrphrfsx
+Length:			33
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 19399
+Current Line:	m584sixkgng7bzzpzjzbfzqpgdcn
+Length:			28
+Digits are 5, 7
+Calibration num: 57
+Current Sum = 19456
+Current Line:	2twozmvzzjbpdftm186eight
+Length:			24
+Digits are 2, 6
+Calibration num: 26
+Current Sum = 19482
+Current Line:	twoninekvspfvkbxtkc3
+Length:			20
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 19515
+Current Line:	fourrchgqkxfdzfccppqtpffhrtfive7seven7
+Length:			38
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 19592
+Current Line:	four483eight
+Length:			12
+Digits are 4, 3
+Calibration num: 43
+Current Sum = 19635
+Current Line:	threelqlc7
+Length:			10
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 19712
+Current Line:	xkgntdjninenine8brkjfsrttnineseven
+Length:			34
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 19800
+Current Line:	9zkds
+Length:			5
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 19899
+Current Line:	twostmdvsbflvqbdgfs55
+Length:			21
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 19954
+Current Line:	twobnzn1czdfpns
+Length:			15
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 19965
+Current Line:	5onetwo5
+Length:			8
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 20020
+Current Line:	txsflrhgklnctfzrlgmplr8pdxl
+Length:			27
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 20108
+Current Line:	93four882mgqmqnsnx
+Length:			18
+Digits are 9, 2
+Calibration num: 92
+Current Sum = 20200
+Current Line:	sevenfxschslsncjgqsctnineonenine1
+Length:			33
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 20211
+Current Line:	brb9
+Length:			4
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 20310
+Current Line:	7five9
+Length:			6
+Digits are 7, 9
+Calibration num: 79
+Current Sum = 20389
+Current Line:	three425
+Length:			8
+Digits are 4, 5
+Calibration num: 45
+Current Sum = 20434
+Current Line:	mkfone4ninefour
+Length:			15
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 20478
+Current Line:	bkpdhbvq7
+Length:			9
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 20555
+Current Line:	dhrlbjvcgqdtqjlk4zxzjpvdfm
+Length:			26
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 20599
+Current Line:	67threefive
+Length:			11
+Digits are 6, 7
+Calibration num: 67
+Current Sum = 20666
+Current Line:	nineninegvmlfthreevtndnb9
+Length:			25
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 20765
+Current Line:	ttmznl3fjdcbch
+Length:			14
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 20798
+Current Line:	fqsxkm9nineoneh761
+Length:			18
+Digits are 9, 1
+Calibration num: 91
+Current Sum = 20889
+Current Line:	sixfivesixnjrtqdkqpc2xdhlrrmp
+Length:			29
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 20911
+Current Line:	eightsix793nvdvbtxxksix
+Length:			23
+Digits are 7, 3
+Calibration num: 73
+Current Sum = 20984
+Current Line:	5veighteightgscktfbtd513
+Length:			24
+Digits are 5, 3
+Calibration num: 53
+Current Sum = 21037
+Current Line:	vfvrcknfls5q
+Length:			12
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 21092
+Current Line:	7seven24rfpzpftrkgthree43
+Length:			25
+Digits are 7, 3
+Calibration num: 73
+Current Sum = 21165
+Current Line:	qplqnt4threezldtjfdzv
+Length:			21
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 21209
+Current Line:	three1ghfglcthreecnzjjphgrlmone
+Length:			31
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 21220
+Current Line:	eightthree84
+Length:			12
+Digits are 8, 4
+Calibration num: 84
+Current Sum = 21304
+Current Line:	xxtpxgonethree5
+Length:			15
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 21359
+Current Line:	3onengztdjljx
+Length:			13
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 21392
+Current Line:	cjrtxxlcpfcqjmgqknineseven2
+Length:			27
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 21414
+Current Line:	sfxhqftcdht4eightthree
+Length:			22
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 21458
+Current Line:	2plnnlkqjnfxv
+Length:			13
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 21480
+Current Line:	ninenineeightone4brmgnngchf
+Length:			27
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 21524
+Current Line:	fivexbtndsonesixlvtjvxhl4sixstn
+Length:			31
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 21568
+Current Line:	dqcztwo8fourninexm
+Length:			18
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 21656
+Current Line:	5532threeqmctrbnnhk
+Length:			19
+Digits are 5, 2
+Calibration num: 52
+Current Sum = 21708
+Current Line:	two4pqsjlcfone8jpt
+Length:			18
+Digits are 4, 8
+Calibration num: 48
+Current Sum = 21756
+Current Line:	onefour42jqs2
+Length:			13
+Digits are 4, 2
+Calibration num: 42
+Current Sum = 21798
+Current Line:	4eightone3gvqfhmmrnprc
+Length:			22
+Digits are 4, 3
+Calibration num: 43
+Current Sum = 21841
+Current Line:	6sjlcfbs8fourfourfiveseven
+Length:			26
+Digits are 6, 8
+Calibration num: 68
+Current Sum = 21909
+Current Line:	nfdeightwo31threeoneeighthjnvcddclm
+Length:			35
+Digits are 3, 1
+Calibration num: 31
+Current Sum = 21940
+Current Line:	149two
+Length:			6
+Digits are 1, 9
+Calibration num: 19
+Current Sum = 21959
+Current Line:	8ckgmfsp32zsnzznine1
+Length:			20
+Digits are 8, 1
+Calibration num: 81
+Current Sum = 22040
+Current Line:	sevenfourlfzztcbplszbninesix1
+Length:			29
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 22051
+Current Line:	htdtwoqxmhnbfxr23fiveone
+Length:			24
+Digits are 2, 3
+Calibration num: 23
+Current Sum = 22074
+Current Line:	qvvqnineqf1five
+Length:			15
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 22085
+Current Line:	rchcjhvqxthv89pkqrffrvdthreesevennine
+Length:			37
+Digits are 8, 9
+Calibration num: 89
+Current Sum = 22174
+Current Line:	kzhtxmrzz3
+Length:			10
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 22207
+Current Line:	sevengnmtfxfthreeqd3fzkbvpgghpkvcgzhthreeeight
+Length:			46
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 22240
+Current Line:	fsmnfc3one3five9mkqgnkkbpt
+Length:			26
+Digits are 3, 9
+Calibration num: 39
+Current Sum = 22279
+Current Line:	js9hbszkvngrnine9trbdkr
+Length:			23
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 22378
+Current Line:	grdflnvhrnjcxgtshh95f35seven
+Length:			28
+Digits are 9, 5
+Calibration num: 95
+Current Sum = 22473
+Current Line:	xb9fxdbcbdninefive
+Length:			18
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 22572
+Current Line:	9sevenmfvdbljjnkkh6shmnhzhvhczhtqhnztltc
+Length:			40
+Digits are 9, 6
+Calibration num: 96
+Current Sum = 22668
+Current Line:	tgkxpgkhdrhnpltgptdfj8
+Length:			22
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 22756
+Current Line:	4onesixfive
+Length:			11
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 22800
+Current Line:	seven1rzpxlkmsbhfivexngj
+Length:			24
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 22811
+Current Line:	plmhsjrgm414
+Length:			12
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 22855
+Current Line:	8twobllkqgllczsix6onexsrvq
+Length:			26
+Digits are 8, 6
+Calibration num: 86
+Current Sum = 22941
+Current Line:	4nine6
+Length:			6
+Digits are 4, 6
+Calibration num: 46
+Current Sum = 22987
+Current Line:	vgfjtxhmqjtwopfrgbmr3
+Length:			21
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 23020
+Current Line:	jhoneight9tsgeight8fivejccrsblkfsndpcmbjm
+Length:			41
+Digits are 9, 8
+Calibration num: 98
+Current Sum = 23118
+Current Line:	dcdkbmkttwothree3six5six8seven
+Length:			30
+Digits are 3, 8
+Calibration num: 38
+Current Sum = 23156
+Current Line:	seven9fivepxlhhhxpmmmtrvvxgrzsxx62
+Length:			34
+Digits are 9, 2
+Calibration num: 92
+Current Sum = 23248
+Current Line:	three59cksmfknhhdthreevpntxrnm3oneightpg
+Length:			40
+Digits are 5, 3
+Calibration num: 53
+Current Sum = 23301
+Current Line:	ninevcctklkbfdtlqv3five384
+Length:			26
+Digits are 3, 4
+Calibration num: 34
+Current Sum = 23335
+Current Line:	f4999tcvvgpdn
+Length:			13
+Digits are 4, 9
+Calibration num: 49
+Current Sum = 23384
+Current Line:	78three23sixonecqbrrkthree
+Length:			26
+Digits are 7, 3
+Calibration num: 73
+Current Sum = 23457
+Current Line:	lcsrnr5rbbmone9
+Length:			15
+Digits are 5, 9
+Calibration num: 59
+Current Sum = 23516
+Current Line:	eighthjjsxhvf7qdxnqsjpdlmzkv
+Length:			28
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 23593
+Current Line:	86four
+Length:			6
+Digits are 8, 6
+Calibration num: 86
+Current Sum = 23679
+Current Line:	1four7one23threejvxh4
+Length:			21
+Digits are 1, 4
+Calibration num: 14
+Current Sum = 23693
+Current Line:	seventwoone9two
+Length:			15
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 23792
+Current Line:	ninejjdhg3fzkqp9
+Length:			16
+Digits are 3, 9
+Calibration num: 39
+Current Sum = 23831
+Current Line:	nine14qjctcs1424vkc
+Length:			19
+Digits are 1, 4
+Calibration num: 14
+Current Sum = 23845
+Current Line:	two45
+Length:			5
+Digits are 4, 5
+Calibration num: 45
+Current Sum = 23890
+Current Line:	gpzgdzcqone55nine
+Length:			17
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 23945
+Current Line:	766fourrvhfrdcqvqn1
+Length:			19
+Digits are 7, 1
+Calibration num: 71
+Current Sum = 24016
+Current Line:	cqfjjgbzhljcnjfnd1vhndrczpnhthreeeight
+Length:			38
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 24027
+Current Line:	eightbzkgpvss7vpz16
+Length:			19
+Digits are 7, 6
+Calibration num: 76
+Current Sum = 24103
+Current Line:	oneqcxqckg2dgnxtwo7lqjslxmeightwovs
+Length:			35
+Digits are 2, 7
+Calibration num: 27
+Current Sum = 24130
+Current Line:	tzvmvcjxk5nineltsb4three9nine
+Length:			29
+Digits are 5, 9
+Calibration num: 59
+Current Sum = 24189
+Current Line:	mkeightwooneseven2
+Length:			18
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 24211
+Current Line:	nrtkxhsevenzdfive3
+Length:			18
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 24244
+Current Line:	6kxrt
+Length:			5
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 24310
+Current Line:	9gp838
+Length:			6
+Digits are 9, 8
+Calibration num: 98
+Current Sum = 24408
+Current Line:	3sgtlcgvsix
+Length:			11
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 24441
+Current Line:	dsqtwone42
+Length:			10
+Digits are 4, 2
+Calibration num: 42
+Current Sum = 24483
+Current Line:	9sixonekjtpvfoursevenrhfqgvc
+Length:			28
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 24582
+Current Line:	3gh
+Length:			3
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 24615
+Current Line:	eightzdzhmjj9onermrzjdlq3sbgtqmkcchx
+Length:			36
+Digits are 9, 3
+Calibration num: 93
+Current Sum = 24708
+Current Line:	22fourthree7
+Length:			12
+Digits are 2, 7
+Calibration num: 27
+Current Sum = 24735
+Current Line:	fxpeightccgmznphxghv2
+Length:			21
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 24757
+Current Line:	five8eight
+Length:			10
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 24845
+Current Line:	seven7ftgqfour
+Length:			14
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 24922
+Current Line:	7fvjtfxkmskseven3xdhrmdmjntsneight
+Length:			34
+Digits are 7, 3
+Calibration num: 73
+Current Sum = 24995
+Current Line:	vgqspdltzsevenbknftljmsk71fivechpjzsvlnm5three
+Length:			46
+Digits are 7, 5
+Calibration num: 75
+Current Sum = 25070
+Current Line:	2fournine6
+Length:			10
+Digits are 2, 6
+Calibration num: 26
+Current Sum = 25096
+Current Line:	fchqnvjk51eightlfpmqtjtkv4bfpfour2
+Length:			34
+Digits are 5, 2
+Calibration num: 52
+Current Sum = 25148
+Current Line:	1sixltcvfh7nngbcfbtvsftwonlncst4
+Length:			32
+Digits are 1, 4
+Calibration num: 14
+Current Sum = 25162
+Current Line:	sevencp3sevenseven
+Length:			18
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 25195
+Current Line:	lsqbbjsrthree5
+Length:			14
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 25250
+Current Line:	tfbbmtvmcnjbdm1dtwo2ghgthc
+Length:			26
+Digits are 1, 2
+Calibration num: 12
+Current Sum = 25262
+Current Line:	9lmdspfheightxrgnsffcdkztbvfsvfxkqtnddp
+Length:			39
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 25361
+Current Line:	2gllnfivexgnsst
+Length:			15
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 25383
+Current Line:	sixm4
+Length:			5
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 25427
+Current Line:	fourthree7twobcm5vxdtlcmcg
+Length:			26
+Digits are 7, 5
+Calibration num: 75
+Current Sum = 25502
+Current Line:	onenine873gszpxcsonep
+Length:			21
+Digits are 8, 3
+Calibration num: 83
+Current Sum = 25585
+Current Line:	2threenvxrbsxnjkonernsqrnqhzmsix5p2
+Length:			35
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 25607
+Current Line:	sllbrnpsjztwo779
+Length:			16
+Digits are 7, 9
+Calibration num: 79
+Current Sum = 25686
+Current Line:	6dfive4zqmhpzcdqj8eight
+Length:			23
+Digits are 6, 8
+Calibration num: 68
+Current Sum = 25754
+Current Line:	5nineqdmbg
+Length:			10
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 25809
+Current Line:	hbrffrnkvthreekjstcv7hvmngdfcn
+Length:			30
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 25886
+Current Line:	21249
+Length:			5
+Digits are 2, 9
+Calibration num: 29
+Current Sum = 25915
+Current Line:	ninekdgfqppzt972five
+Length:			20
+Digits are 9, 2
+Calibration num: 92
+Current Sum = 26007
+Current Line:	7ljrvzfrklgmtqrstxkrkbjbpzeightxfnvr9
+Length:			37
+Digits are 7, 9
+Calibration num: 79
+Current Sum = 26086
+Current Line:	sevenfour9onesevensixlczmmlg
+Length:			28
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 26185
+Current Line:	kcteightwo6752
+Length:			14
+Digits are 6, 2
+Calibration num: 62
+Current Sum = 26247
+Current Line:	fivethree9eight
+Length:			15
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 26346
+Current Line:	zzgmn5nnfndqeightbzbcsxqpzj5one
+Length:			31
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 26401
+Current Line:	6fourvqfhs
+Length:			10
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 26467
+Current Line:	fivexfqvmrpgpgxz3
+Length:			17
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 26500
+Current Line:	txqbhgcxjfive1seven44
+Length:			21
+Digits are 1, 4
+Calibration num: 14
+Current Sum = 26514
+Current Line:	82jonehgntqmxjbs5two2
+Length:			21
+Digits are 8, 2
+Calibration num: 82
+Current Sum = 26596
+Current Line:	4eightxmz53
+Length:			11
+Digits are 4, 3
+Calibration num: 43
+Current Sum = 26639
+Current Line:	lnzvmqrsgsfiveeight9
+Length:			20
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 26738
+Current Line:	threefour7
+Length:			10
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 26815
+Current Line:	seven4ljsevenfive
+Length:			17
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 26859
+Current Line:	1jfcvdvgmb7scmcfsbbnine3
+Length:			24
+Digits are 1, 3
+Calibration num: 13
+Current Sum = 26872
+Current Line:	kpxpxsvvg4fcjxjcmltnineone4eightsix
+Length:			35
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 26916
+Current Line:	zjdcddgtwogfbbmdvcczbcfjpcdtslckbtzqfive6nine
+Length:			45
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 26982
+Current Line:	4tqghjdjnfour7six3
+Length:			18
+Digits are 4, 3
+Calibration num: 43
+Current Sum = 27025
+Current Line:	lgdtjjktwothree89scfivethree
+Length:			28
+Digits are 8, 9
+Calibration num: 89
+Current Sum = 27114
+Current Line:	3xvvmzshronefour6sevenktdjmrmfqtnvhvl
+Length:			37
+Digits are 3, 6
+Calibration num: 36
+Current Sum = 27150
+Current Line:	9fivexcpvthree8njncvnnz4
+Length:			24
+Digits are 9, 4
+Calibration num: 94
+Current Sum = 27244
+Current Line:	gcgx5sixdgqznrrstwo
+Length:			19
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 27299
+Current Line:	1fivereightonefour
+Length:			18
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 27310
+Current Line:	tfclzvrhb1five
+Length:			14
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 27321
+Current Line:	xcq5
+Length:			4
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 27376
+Current Line:	five9four8fourtrdbmcjjjvnine
+Length:			28
+Digits are 9, 8
+Calibration num: 98
+Current Sum = 27474
+Current Line:	63rlxseven7bltsm
+Length:			16
+Digits are 6, 7
+Calibration num: 67
+Current Sum = 27541
+Current Line:	1bnzzkgm7seven5onezqjvzrnbnxkgffvt
+Length:			34
+Digits are 1, 5
+Calibration num: 15
+Current Sum = 27556
+Current Line:	sixone9
+Length:			7
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 27655
+Current Line:	7jzmnhjvzxfive8
+Length:			15
+Digits are 7, 8
+Calibration num: 78
+Current Sum = 27733
+Current Line:	16mbrtmstrhhsevenxkhgkmhreight
+Length:			30
+Digits are 1, 6
+Calibration num: 16
+Current Sum = 27749
+Current Line:	ninetwosevenp2ndddnhlczfnzx5pt
+Length:			30
+Digits are 2, 5
+Calibration num: 25
+Current Sum = 27774
+Current Line:	bv83blnnpfrbsone2ninethreethree
+Length:			31
+Digits are 8, 2
+Calibration num: 82
+Current Sum = 27856
+Current Line:	zjjvslrqpvrhxsix5z1nine8six
+Length:			27
+Digits are 5, 8
+Calibration num: 58
+Current Sum = 27914
+Current Line:	cqqfxzzxrnmvdvssevenrdm1dckrhjbdxpgqshlnxvj
+Length:			43
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 27925
+Current Line:	78sevenkrsvceight2eight
+Length:			23
+Digits are 7, 2
+Calibration num: 72
+Current Sum = 27997
+Current Line:	twogrflcthree5gvmqfkpjfjcnqdhfourfour
+Length:			37
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 28052
+Current Line:	dcttz7sevengtgstlznlgcmbzs
+Length:			26
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 28129
+Current Line:	four64fournpxmfkdmqn1
+Length:			21
+Digits are 6, 1
+Calibration num: 61
+Current Sum = 28190
+Current Line:	gmgndczvqeight6sixhhfgdrzbl1three99
+Length:			35
+Digits are 6, 9
+Calibration num: 69
+Current Sum = 28259
+Current Line:	twoseventhreefivecfsdlmnzvlqbrszjdz2
+Length:			36
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 28281
+Current Line:	onebh2
+Length:			6
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 28303
+Current Line:	5tcrkzggfdfzq77
+Length:			15
+Digits are 5, 7
+Calibration num: 57
+Current Sum = 28360
+Current Line:	gjhfrt871hmgsix
+Length:			15
+Digits are 8, 1
+Calibration num: 81
+Current Sum = 28441
+Current Line:	qn589stxkhnlnhvzptzs6qlfvhz
+Length:			27
+Digits are 5, 6
+Calibration num: 56
+Current Sum = 28497
+Current Line:	qhtnjvdmtflxffour6sevenktgtr8
+Length:			29
+Digits are 6, 8
+Calibration num: 68
+Current Sum = 28565
+Current Line:	7sevenhjjdvmsixpqzxkkzcqzd
+Length:			26
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 28642
+Current Line:	849six1kt
+Length:			9
+Digits are 8, 1
+Calibration num: 81
+Current Sum = 28723
+Current Line:	trhhcsndhtwoeightfournineszdrmrqhsq4
+Length:			36
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 28767
+Current Line:	dfzrnine9
+Length:			9
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 28866
+Current Line:	roneightgqnxnd18frkjgvhpngpcs9
+Length:			30
+Digits are 1, 9
+Calibration num: 19
+Current Sum = 28885
+Current Line:	3nine8lvkpzzqjkhxjjthree
+Length:			24
+Digits are 3, 8
+Calibration num: 38
+Current Sum = 28923
+Current Line:	2cmdmvnzb
+Length:			9
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 28945
+Current Line:	dkxscqdrctgxzlflrlvtnkqlmrlgsrqseven8qlqrdz
+Length:			43
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 29033
+Current Line:	4fivethree
+Length:			10
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 29077
+Current Line:	2qtbhgfjcpchsjslm
+Length:			17
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 29099
+Current Line:	gtvvdchll61gczsrlxhgf356
+Length:			24
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 29165
+Current Line:	6onegckf4seven4sbntwotwo
+Length:			24
+Digits are 6, 4
+Calibration num: 64
+Current Sum = 29229
+Current Line:	ccstwone1872hdv2
+Length:			16
+Digits are 1, 2
+Calibration num: 12
+Current Sum = 29241
+Current Line:	515mhxpngvzqt
+Length:			13
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 29296
+Current Line:	fourjhhfsbonexdzhgrseven3
+Length:			25
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 29329
+Current Line:	twoxklx6seven4ninethreertczhbsfour
+Length:			34
+Digits are 6, 4
+Calibration num: 64
+Current Sum = 29393
+Current Line:	rhtl4pg1four
+Length:			12
+Digits are 4, 1
+Calibration num: 41
+Current Sum = 29434
+Current Line:	6dlprbkclc4nxvfqkpt
+Length:			19
+Digits are 6, 4
+Calibration num: 64
+Current Sum = 29498
+Current Line:	5onelkmrhczkm
+Length:			13
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 29553
+Current Line:	zqhxmhgkone5xpkvsntwo3
+Length:			22
+Digits are 5, 3
+Calibration num: 53
+Current Sum = 29606
+Current Line:	2two461
+Length:			7
+Digits are 2, 1
+Calibration num: 21
+Current Sum = 29627
+Current Line:	twolr6two4bzssevenfive
+Length:			22
+Digits are 6, 4
+Calibration num: 64
+Current Sum = 29691
+Current Line:	2oneone7ninetsgxlx332
+Length:			21
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 29713
+Current Line:	eight3hvlzpxtcs
+Length:			15
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 29746
+Current Line:	25eight3tbpccjbx3sdcmt
+Length:			22
+Digits are 2, 3
+Calibration num: 23
+Current Sum = 29769
+Current Line:	krdzhfh2sixeightgrszdxt
+Length:			23
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 29791
+Current Line:	tjxlhrgmqcdspzdb6ssgqnxcxlvbfivetwo
+Length:			35
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 29857
+Current Line:	snninedqlbnhqzjthreebhfnfrf3pfcqzfnffhsix8
+Length:			42
+Digits are 3, 8
+Calibration num: 38
+Current Sum = 29895
+Current Line:	8nine3
+Length:			6
+Digits are 8, 3
+Calibration num: 83
+Current Sum = 29978
+Current Line:	9five1xlbvsix5sdcrlhgtffxb
+Length:			26
+Digits are 9, 5
+Calibration num: 95
+Current Sum = 30073
+Current Line:	seventrldtzv5ninetwofive7four7
+Length:			30
+Digits are 5, 7
+Calibration num: 57
+Current Sum = 30130
+Current Line:	blbvthree1grdhltsevenfive
+Length:			25
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 30141
+Current Line:	fkrhh4gd1
+Length:			9
+Digits are 4, 1
+Calibration num: 41
+Current Sum = 30182
+Current Line:	1jncdsphsnjzkxphbdftksc5dtgsixone
+Length:			33
+Digits are 1, 5
+Calibration num: 15
+Current Sum = 30197
+Current Line:	fglnthreehgkx31
+Length:			15
+Digits are 3, 1
+Calibration num: 31
+Current Sum = 30228
+Current Line:	threexnfour8threefive
+Length:			21
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 30316
+Current Line:	zzjnmhvbltp1
+Length:			12
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 30327
+Current Line:	6vcjxszkfmkprpl32cfjsrhzmdfourjdflnfql
+Length:			38
+Digits are 6, 2
+Calibration num: 62
+Current Sum = 30389
+Current Line:	49tlsqspjjcmtjvpd4
+Length:			18
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 30433
+Current Line:	7sevenjfqpktqpdhonethreefpjqhbjcpfourdzzcbxp
+Length:			44
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 30510
+Current Line:	xn7sixeight9dphpvscjlxdtwovjbnx
+Length:			31
+Digits are 7, 9
+Calibration num: 79
+Current Sum = 30589
+Current Line:	tzgrvrkgbs7cfzf2eight76eight
+Length:			28
+Digits are 7, 6
+Calibration num: 76
+Current Sum = 30665
+Current Line:	4xlnzqrxqk8two97vxjninelmhzhv
+Length:			29
+Digits are 4, 7
+Calibration num: 47
+Current Sum = 30712
+Current Line:	ninedqlbgpbmf7dhmshsbq2eighteightpgzq
+Length:			37
+Digits are 7, 2
+Calibration num: 72
+Current Sum = 30784
+Current Line:	fourthree825
+Length:			12
+Digits are 8, 5
+Calibration num: 85
+Current Sum = 30869
+Current Line:	jcqftlf2threecbnine24lds
+Length:			24
+Digits are 2, 4
+Calibration num: 24
+Current Sum = 30893
+Current Line:	fourtxnine8zhlzcqjmvk
+Length:			21
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 30981
+Current Line:	5two3
+Length:			5
+Digits are 5, 3
+Calibration num: 53
+Current Sum = 31034
+Current Line:	zfkdgfourtwoc4
+Length:			14
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 31078
+Current Line:	7fivefch
+Length:			8
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 31155
+Current Line:	fourqrvjmbninelcvjlgqxmvhf2hldvjzhl7seven
+Length:			41
+Digits are 2, 7
+Calibration num: 27
+Current Sum = 31182
+Current Line:	vkfeightwo8four5seven
+Length:			21
+Digits are 8, 5
+Calibration num: 85
+Current Sum = 31267
+Current Line:	79fxdpd
+Length:			7
+Digits are 7, 9
+Calibration num: 79
+Current Sum = 31346
+Current Line:	tdjspcsixdqrgkxvk1vjmggfpbrvfour
+Length:			32
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 31357
+Current Line:	43tnmdpslnxfourtwovnzdzhvteightseven
+Length:			36
+Digits are 4, 3
+Calibration num: 43
+Current Sum = 31400
+Current Line:	threenine1zklgrlllhonekn6
+Length:			25
+Digits are 1, 6
+Calibration num: 16
+Current Sum = 31416
+Current Line:	one2zhnthreez
+Length:			13
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 31438
+Current Line:	bone11npzv
+Length:			10
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 31449
+Current Line:	five44614jnzxvdjhm
+Length:			18
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 31493
+Current Line:	277seven1
+Length:			9
+Digits are 2, 1
+Calibration num: 21
+Current Sum = 31514
+Current Line:	6djmb65nglbkzrlpfgsqchbp18
+Length:			26
+Digits are 6, 8
+Calibration num: 68
+Current Sum = 31582
+Current Line:	ninesix2four
+Length:			12
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 31604
+Current Line:	four8nshkzhzvxlxxnngxvfive
+Length:			26
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 31692
+Current Line:	2threejrxhhqkctsthreemdqzpxxrrglnine8nine
+Length:			41
+Digits are 2, 8
+Calibration num: 28
+Current Sum = 31720
+Current Line:	1xdm
+Length:			4
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 31731
+Current Line:	kgnprzeight7nine
+Length:			16
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 31808
+Current Line:	mssbnjdcjvvtpnsrnslmeightbzl3nr
+Length:			31
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 31841
+Current Line:	9dppkrcf6oneoneeighteightklmtfvl
+Length:			32
+Digits are 9, 6
+Calibration num: 96
+Current Sum = 31937
+Current Line:	8ninebrzqx4kbhkcp6
+Length:			18
+Digits are 8, 6
+Calibration num: 86
+Current Sum = 32023
+Current Line:	seven1hklsjbdqzp1zc
+Length:			19
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 32034
+Current Line:	twofcbxntcskg1onezzqfrff
+Length:			24
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 32045
+Current Line:	94xssjlkccfbljz
+Length:			15
+Digits are 9, 4
+Calibration num: 94
+Current Sum = 32139
+Current Line:	spfive47ssjssevenrz2two
+Length:			23
+Digits are 4, 2
+Calibration num: 42
+Current Sum = 32181
+Current Line:	98threelc676
+Length:			12
+Digits are 9, 6
+Calibration num: 96
+Current Sum = 32277
+Current Line:	mxrgthreezzkhcmoneseven7three
+Length:			29
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 32354
+Current Line:	crdvdtq5sixone97
+Length:			16
+Digits are 5, 7
+Calibration num: 57
+Current Sum = 32411
+Current Line:	8eightbvbg
+Length:			10
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 32499
+Current Line:	gvjscdfkdmseventhree2nbvbzmdmmtrfive
+Length:			36
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 32521
+Current Line:	1threesevenhcxggpds4two12six
+Length:			28
+Digits are 1, 2
+Calibration num: 12
+Current Sum = 32533
+Current Line:	5onekxzkfour8
+Length:			13
+Digits are 5, 8
+Calibration num: 58
+Current Sum = 32591
+Current Line:	2ddeight4
+Length:			9
+Digits are 2, 4
+Calibration num: 24
+Current Sum = 32615
+Current Line:	645
+Length:			3
+Digits are 6, 5
+Calibration num: 65
+Current Sum = 32680
+Current Line:	ninejjrlhdhjtzmrlvljfr98
+Length:			24
+Digits are 9, 8
+Calibration num: 98
+Current Sum = 32778
+Current Line:	seven11ninebvbtnbzdmblbjvzsh
+Length:			28
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 32789
+Current Line:	9nine59xmdktjsnseventhree
+Length:			25
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 32888
+Current Line:	qdxgtk6126vxcgtxkkbqjrpfntvsprq
+Length:			31
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 32954
+Current Line:	75cqkfddg5ninejkbvpsbcltssh1
+Length:			28
+Digits are 7, 1
+Calibration num: 71
+Current Sum = 33025
+Current Line:	3onerfpqbsvone39one3nrxmbk
+Length:			26
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 33058
+Current Line:	1612three1
+Length:			10
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 33069
+Current Line:	8hqrsksevenldcqrcfxhr
+Length:			21
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 33157
+Current Line:	ninerfkxndfhhkfivefjntjzxhgpbbffvfour2sg1
+Length:			41
+Digits are 2, 1
+Calibration num: 21
+Current Sum = 33178
+Current Line:	seven37kbxszsgpt
+Length:			16
+Digits are 3, 7
+Calibration num: 37
+Current Sum = 33215
+Current Line:	89435jpgsfiverhsztt
+Length:			19
+Digits are 8, 5
+Calibration num: 85
+Current Sum = 33300
+Current Line:	threeseven1sixsix21five6
+Length:			24
+Digits are 1, 6
+Calibration num: 16
+Current Sum = 33316
+Current Line:	pzht15gxvjlvsfour6eight8two
+Length:			27
+Digits are 1, 8
+Calibration num: 18
+Current Sum = 33334
+Current Line:	lkvcseven771gcvrsvsshtppdgxnvclqhnjlvvthree
+Length:			43
+Digits are 7, 1
+Calibration num: 71
+Current Sum = 33405
+Current Line:	sevenmpghzvvrd6
+Length:			15
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 33471
+Current Line:	8vprrlcq9xzhmhnj4
+Length:			17
+Digits are 8, 4
+Calibration num: 84
+Current Sum = 33555
+Current Line:	dxhsxknone1two4
+Length:			15
+Digits are 1, 4
+Calibration num: 14
+Current Sum = 33569
+Current Line:	eight64d
+Length:			8
+Digits are 6, 4
+Calibration num: 64
+Current Sum = 33633
+Current Line:	8jqdlcsixzzhvnnfiveqbtlhrr
+Length:			26
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 33721
+Current Line:	9eight5nine5fiverk
+Length:			18
+Digits are 9, 5
+Calibration num: 95
+Current Sum = 33816
+Current Line:	xhhxgf5bfsbthreesthreeltlvhvrjnslxhsrp
+Length:			38
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 33871
+Current Line:	twoqccssix55twofour3vtsjxk
+Length:			26
+Digits are 5, 3
+Calibration num: 53
+Current Sum = 33924
+Current Line:	goneightpqgblvhpmp4sevenonethree9sixsixfour
+Length:			43
+Digits are 4, 9
+Calibration num: 49
+Current Sum = 33973
+Current Line:	onethree536xhznine7df
+Length:			21
+Digits are 5, 7
+Calibration num: 57
+Current Sum = 34030
+Current Line:	998
+Length:			3
+Digits are 9, 8
+Calibration num: 98
+Current Sum = 34128
+Current Line:	hsix23three
+Length:			11
+Digits are 2, 3
+Calibration num: 23
+Current Sum = 34151
+Current Line:	chgtqonenvxtlrhxvxmbbl5
+Length:			23
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 34206
+Current Line:	2zkzg
+Length:			5
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 34228
+Current Line:	1hgrpzshm5onebcgpfv9onecgtr
+Length:			27
+Digits are 1, 9
+Calibration num: 19
+Current Sum = 34247
+Current Line:	3sixonevldsdlxqtjsnlt5onehxdpfive
+Length:			33
+Digits are 3, 5
+Calibration num: 35
+Current Sum = 34282
+Current Line:	eighteight59phbd9ldnvdlsxninenine
+Length:			33
+Digits are 5, 9
+Calibration num: 59
+Current Sum = 34341
+Current Line:	zseven9
+Length:			7
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 34440
+Current Line:	xptwonekdrnv2
+Length:			13
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 34462
+Current Line:	5tsmnbhxhzrtfbknbqsevensnxbqrhs5
+Length:			32
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 34517
+Current Line:	694onebvmscclkbsfour1kxgfxdbfour
+Length:			32
+Digits are 6, 1
+Calibration num: 61
+Current Sum = 34578
+Current Line:	g2ninetwoned
+Length:			12
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 34600
+Current Line:	gmlsjjttcngblmjhtgkz3fourdrzrrmsszfivefive
+Length:			42
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 34633
+Current Line:	gtmzmkrktmrkfive8tq5
+Length:			20
+Digits are 8, 5
+Calibration num: 85
+Current Sum = 34718
+Current Line:	eight1four
+Length:			10
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 34729
+Current Line:	8eightthreevqgtlfxrm4three6mnrfzvpkbl
+Length:			37
+Digits are 8, 6
+Calibration num: 86
+Current Sum = 34815
+Current Line:	szrbvtwo3lqbxthreefivemshzfgjzlllrmr6
+Length:			37
+Digits are 3, 6
+Calibration num: 36
+Current Sum = 34851
+Current Line:	kzczdbjcbnine8nnineninevfbt3vsvcplsnj
+Length:			37
+Digits are 8, 3
+Calibration num: 83
+Current Sum = 34934
+Current Line:	ninesevensmgfsix5fivedfpxvmtmcsgzpbppfjt
+Length:			40
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 34989
+Current Line:	sevenctdzznone7three5kngbthreenine
+Length:			34
+Digits are 7, 5
+Calibration num: 75
+Current Sum = 35064
+Current Line:	44sixoneonesix
+Length:			14
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 35108
+Current Line:	nine9fiverrbbrqtfive53
+Length:			22
+Digits are 9, 3
+Calibration num: 93
+Current Sum = 35201
+Current Line:	onesix2oneseventhree3rmpjl
+Length:			26
+Digits are 2, 3
+Calibration num: 23
+Current Sum = 35224
+Current Line:	23htxtgxqkseven
+Length:			15
+Digits are 2, 3
+Calibration num: 23
+Current Sum = 35247
+Current Line:	fourlkbsix3twonndccsseightbs
+Length:			28
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 35280
+Current Line:	eight8two5four3
+Length:			15
+Digits are 8, 3
+Calibration num: 83
+Current Sum = 35363
+Current Line:	five8dvxpqfsixghrkg3fourninetfsdbxzp
+Length:			36
+Digits are 8, 3
+Calibration num: 83
+Current Sum = 35446
+Current Line:	bhtqtclbsix6jlvxtgmq
+Length:			20
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 35512
+Current Line:	498three1
+Length:			9
+Digits are 4, 1
+Calibration num: 41
+Current Sum = 35553
+Current Line:	2t
+Length:			2
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 35575
+Current Line:	7five3bcjxsglnxqjxjqfb
+Length:			22
+Digits are 7, 3
+Calibration num: 73
+Current Sum = 35648
+Current Line:	6seveneightxvmqgbklgnbfgzlncvg
+Length:			30
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 35714
+Current Line:	89nine74gbgbcone
+Length:			16
+Digits are 8, 4
+Calibration num: 84
+Current Sum = 35798
+Current Line:	8dtln6
+Length:			6
+Digits are 8, 6
+Calibration num: 86
+Current Sum = 35884
+Current Line:	svtl5eight8
+Length:			11
+Digits are 5, 8
+Calibration num: 58
+Current Sum = 35942
+Current Line:	jsxzlsix8bzrmcl659lrmgtnpv
+Length:			26
+Digits are 8, 9
+Calibration num: 89
+Current Sum = 36031
+Current Line:	64rklskvlndm6ninextbrs4
+Length:			23
+Digits are 6, 4
+Calibration num: 64
+Current Sum = 36095
+Current Line:	voneight79two
+Length:			13
+Digits are 7, 9
+Calibration num: 79
+Current Sum = 36174
+Current Line:	sbzdmjbtwo7dnglczphb77fvhtwo
+Length:			28
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 36251
+Current Line:	two3eightwoj
+Length:			12
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 36284
+Current Line:	rtoneighttsgeight89nine4
+Length:			24
+Digits are 8, 4
+Calibration num: 84
+Current Sum = 36368
+Current Line:	3six8vbdbthxxffgm
+Length:			17
+Digits are 3, 8
+Calibration num: 38
+Current Sum = 36406
+Current Line:	rxgoneight4mtqdpzbfndtsvsrzt
+Length:			28
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 36450
+Current Line:	7one4lbqcfnffive8
+Length:			17
+Digits are 7, 8
+Calibration num: 78
+Current Sum = 36528
+Current Line:	fivecd8two2eight
+Length:			16
+Digits are 8, 2
+Calibration num: 82
+Current Sum = 36610
+Current Line:	twofivefive6twotwoklvbdstxfcvsm9
+Length:			32
+Digits are 6, 9
+Calibration num: 69
+Current Sum = 36679
+Current Line:	threemdrdnhl7sixseven46mctldxnn
+Length:			31
+Digits are 7, 6
+Calibration num: 76
+Current Sum = 36755
+Current Line:	5njljbxdrcbrrm3ninec
+Length:			20
+Digits are 5, 3
+Calibration num: 53
+Current Sum = 36808
+Current Line:	5jg6eight4
+Length:			10
+Digits are 5, 4
+Calibration num: 54
+Current Sum = 36862
+Current Line:	ninethreetwo6dnldknsnn
+Length:			22
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 36928
+Current Line:	xrpczvvfnpjfbpvxzjzpmrkpb8fivesixtwonetj
+Length:			40
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 37016
+Current Line:	4five4vmone3td6
+Length:			15
+Digits are 4, 6
+Calibration num: 46
+Current Sum = 37062
+Current Line:	77jbgjkgkfd1691lfp
+Length:			18
+Digits are 7, 1
+Calibration num: 71
+Current Sum = 37133
+Current Line:	fhxvlvct6
+Length:			9
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 37199
+Current Line:	scjeightwo6onedjz71jslzdfxp
+Length:			27
+Digits are 6, 1
+Calibration num: 61
+Current Sum = 37260
+Current Line:	7eightpblnnbvqtvtwoseven
+Length:			24
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 37337
+Current Line:	btdgplkdvl5rlzjkthree2threefive
+Length:			31
+Digits are 5, 2
+Calibration num: 52
+Current Sum = 37389
+Current Line:	298
+Length:			3
+Digits are 2, 8
+Calibration num: 28
+Current Sum = 37417
+Current Line:	7hhfxtfcvsqjvsxpbdjqzxngg832tdznpfhz8
+Length:			37
+Digits are 7, 8
+Calibration num: 78
+Current Sum = 37495
+Current Line:	drhfzlnlcrsix2dbjqhrxzqrsixsevengrnine
+Length:			38
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 37517
+Current Line:	sixninesixoneeighttwo96
+Length:			23
+Digits are 9, 6
+Calibration num: 96
+Current Sum = 37613
+Current Line:	onekqzjft4zdspcvmbjtzbsixv
+Length:			26
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 37657
+Current Line:	sixgkx74
+Length:			8
+Digits are 7, 4
+Calibration num: 74
+Current Sum = 37731
+Current Line:	75eightqvblvm2gtjmcljphjvtwonesq
+Length:			32
+Digits are 7, 2
+Calibration num: 72
+Current Sum = 37803
+Current Line:	bcmqtltwoxsbkvhdv96df81
+Length:			23
+Digits are 9, 1
+Calibration num: 91
+Current Sum = 37894
+Current Line:	eight3bk45sixninezdnntshfv
+Length:			26
+Digits are 3, 5
+Calibration num: 35
+Current Sum = 37929
+Current Line:	9threetwosix
+Length:			12
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 38028
+Current Line:	2vrfzsvcprnjzngl2nine
+Length:			21
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 38050
+Current Line:	fivekdhcgrpznvsix2nmhthl27
+Length:			26
+Digits are 2, 7
+Calibration num: 27
+Current Sum = 38077
+Current Line:	195
+Length:			3
+Digits are 1, 5
+Calibration num: 15
+Current Sum = 38092
+Current Line:	four8tspldsixzzqxrqqmsr
+Length:			23
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 38180
+Current Line:	8bnvksmmlhnfive372jmxhj
+Length:			23
+Digits are 8, 2
+Calibration num: 82
+Current Sum = 38262
+Current Line:	nineseven6threeeightnine7vtzmpf
+Length:			31
+Digits are 6, 7
+Calibration num: 67
+Current Sum = 38329
+Current Line:	2twofivehbponevptflmzgxljzfour
+Length:			30
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 38351
+Current Line:	85eight81two
+Length:			12
+Digits are 8, 1
+Calibration num: 81
+Current Sum = 38432
+Current Line:	2ctnhxfivethree148vjtzfdfkkfvvtgb
+Length:			33
+Digits are 2, 8
+Calibration num: 28
+Current Sum = 38460
+Current Line:	62sixpsfjzcxzlzsjbtxnjpbctgcjm9
+Length:			31
+Digits are 6, 9
+Calibration num: 69
+Current Sum = 38529
+Current Line:	gmclvqfq1
+Length:			9
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 38540
+Current Line:	32csv9dgfxsjm
+Length:			13
+Digits are 3, 9
+Calibration num: 39
+Current Sum = 38579
+Current Line:	4fjcdrzmznhfive33345
+Length:			20
+Digits are 4, 5
+Calibration num: 45
+Current Sum = 38624
+Current Line:	62eightrdplbxdhfq1eight
+Length:			23
+Digits are 6, 1
+Calibration num: 61
+Current Sum = 38685
+Current Line:	4four97skpvpphtbqmmsckxpdqnfour
+Length:			31
+Digits are 4, 7
+Calibration num: 47
+Current Sum = 38732
+Current Line:	913sevennmmbbnntrs
+Length:			18
+Digits are 9, 3
+Calibration num: 93
+Current Sum = 38825
+Current Line:	862twonec
+Length:			9
+Digits are 8, 2
+Calibration num: 82
+Current Sum = 38907
+Current Line:	three2four7foureighttwo6
+Length:			24
+Digits are 2, 6
+Calibration num: 26
+Current Sum = 38933
+Current Line:	ninejnt721nine8
+Length:			15
+Digits are 7, 8
+Calibration num: 78
+Current Sum = 39011
+Current Line:	eight1gpnrlklmxt
+Length:			16
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 39022
+Current Line:	nine2mrzvhlzxgninesixkp
+Length:			23
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 39044
+Current Line:	cklsqdf9nine3
+Length:			13
+Digits are 9, 3
+Calibration num: 93
+Current Sum = 39137
+Current Line:	seventhreefivehdnkjqtd4tcjxpbcvpjsvbhdvx3frkc
+Length:			45
+Digits are 4, 3
+Calibration num: 43
+Current Sum = 39180
+Current Line:	one85sbrtsftwo6
+Length:			15
+Digits are 8, 6
+Calibration num: 86
+Current Sum = 39266
+Current Line:	sixnine8nineone46six
+Length:			20
+Digits are 8, 6
+Calibration num: 86
+Current Sum = 39352
+Current Line:	dmtlrzkfdsdklbvzckjmnthkkmqh9
+Length:			29
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 39451
+Current Line:	ninetwojone8
+Length:			12
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 39539
+Current Line:	bfneighttwo5
+Length:			12
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 39594
+Current Line:	slqmsbnl4mmeight7
+Length:			17
+Digits are 4, 7
+Calibration num: 47
+Current Sum = 39641
+Current Line:	55dnsb2485
+Length:			10
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 39696
+Current Line:	fivesixmzvmsmkkhd86twotwofour
+Length:			29
+Digits are 8, 6
+Calibration num: 86
+Current Sum = 39782
+Current Line:	gppnzsevenninemzbzzqqhzvgclndss16
+Length:			33
+Digits are 1, 6
+Calibration num: 16
+Current Sum = 39798
+Current Line:	8two7r
+Length:			6
+Digits are 8, 7
+Calibration num: 87
+Current Sum = 39885
+Current Line:	8xsevenbfvhdqxtwoeight86
+Length:			24
+Digits are 8, 6
+Calibration num: 86
+Current Sum = 39971
+Current Line:	fnnineeight1eightninenine8twonejgf
+Length:			34
+Digits are 1, 8
+Calibration num: 18
+Current Sum = 39989
+Current Line:	five7three51
+Length:			12
+Digits are 7, 1
+Calibration num: 71
+Current Sum = 40060
+Current Line:	eightthreevsnn4seven
+Length:			20
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 40104
+Current Line:	nhhjkxhtxp4csfeight
+Length:			19
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 40148
+Current Line:	2nine9sixfour9
+Length:			14
+Digits are 2, 9
+Calibration num: 29
+Current Sum = 40177
+Current Line:	fveighttvjxbhzfour7ninetwo
+Length:			26
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 40254
+Current Line:	5eight6
+Length:			7
+Digits are 5, 6
+Calibration num: 56
+Current Sum = 40310
+Current Line:	txnxcrx3
+Length:			8
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 40343
+Current Line:	chbmjvmlfqfgsg2hdg
+Length:			18
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 40365
+Current Line:	56five29hrrjgxnrbnzjjktdfqssjqksxn
+Length:			34
+Digits are 5, 9
+Calibration num: 59
+Current Sum = 40424
+Current Line:	eighttwohszdlc7veight
+Length:			21
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 40501
+Current Line:	5ltglgmlfkkbzkvh
+Length:			16
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 40556
+Current Line:	eight336gbxmzjsbpgztprdv2eighttwo
+Length:			33
+Digits are 3, 2
+Calibration num: 32
+Current Sum = 40588
+Current Line:	five44
+Length:			6
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 40632
+Current Line:	kdfbgxpcqtdlksc4threefournineeightnshlmfvs
+Length:			42
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 40676
+Current Line:	1c5six
+Length:			6
+Digits are 1, 5
+Calibration num: 15
+Current Sum = 40691
+Current Line:	nss7bccb
+Length:			8
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 40768
+Current Line:	34eight9six92
+Length:			13
+Digits are 3, 2
+Calibration num: 32
+Current Sum = 40800
+Current Line:	onetwofivedblgtrxzpvmrhhsj2jhrcbbsseven3
+Length:			40
+Digits are 2, 3
+Calibration num: 23
+Current Sum = 40823
+Current Line:	vxkczjfhnine5drz
+Length:			16
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 40878
+Current Line:	bfourqkmt1
+Length:			10
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 40889
+Current Line:	two2onedgxgmffcg1
+Length:			17
+Digits are 2, 1
+Calibration num: 21
+Current Sum = 40910
+Current Line:	3threenine6vlstktnqdzfive
+Length:			25
+Digits are 3, 6
+Calibration num: 36
+Current Sum = 40946
+Current Line:	three8gsqdqpv
+Length:			13
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 41034
+Current Line:	7ndgkns
+Length:			7
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 41111
+Current Line:	4onerglbzsjrkqskljcgthree
+Length:			25
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 41155
+Current Line:	zxkgzkvn7fssgdsblvksixn
+Length:			23
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 41232
+Current Line:	788sjxcxmtxfivezzpgsbzbtl8fourtwo
+Length:			33
+Digits are 7, 8
+Calibration num: 78
+Current Sum = 41310
+Current Line:	9mhrlcsqqgzjrfnd
+Length:			16
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 41409
+Current Line:	7kbmhmlghssix231
+Length:			16
+Digits are 7, 1
+Calibration num: 71
+Current Sum = 41480
+Current Line:	7tcfv6jpkxnzmrtx2
+Length:			17
+Digits are 7, 2
+Calibration num: 72
+Current Sum = 41552
+Current Line:	bcxvhcjbhsxbgbrj28fivenhk
+Length:			25
+Digits are 2, 8
+Calibration num: 28
+Current Sum = 41580
+Current Line:	jrm3447
+Length:			7
+Digits are 3, 7
+Calibration num: 37
+Current Sum = 41617
+Current Line:	ljsix29mhrmrjpcfqone
+Length:			20
+Digits are 2, 9
+Calibration num: 29
+Current Sum = 41646
+Current Line:	xqdxkzls46
+Length:			10
+Digits are 4, 6
+Calibration num: 46
+Current Sum = 41692
+Current Line:	bmhnfnd9qmbndfhqnv9bhdpqxthreefbptttwosix
+Length:			41
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 41791
+Current Line:	six9three5blqp37seven
+Length:			21
+Digits are 9, 7
+Calibration num: 97
+Current Sum = 41888
+Current Line:	44ffvsnxttwo8seven
+Length:			18
+Digits are 4, 8
+Calibration num: 48
+Current Sum = 41936
+Current Line:	cmjccpp34threesix6jhthree
+Length:			25
+Digits are 3, 6
+Calibration num: 36
+Current Sum = 41972
+Current Line:	eight86
+Length:			7
+Digits are 8, 6
+Calibration num: 86
+Current Sum = 42058
+Current Line:	3vqqjlgdj9zncvjhbpr2d
+Length:			21
+Digits are 3, 2
+Calibration num: 32
+Current Sum = 42090
+Current Line:	26sfzqpfgfivetwo56
+Length:			18
+Digits are 2, 6
+Calibration num: 26
+Current Sum = 42116
+Current Line:	xljmtkjkzthree8
+Length:			15
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 42204
+Current Line:	ninesevenfourtsctjhvfive4dt
+Length:			27
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 42248
+Current Line:	jzsxmmxmpllqpmszczxzghpxp4
+Length:			26
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 42292
+Current Line:	hcrtjnvghvnthree5one
+Length:			20
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 42347
+Current Line:	5twoeightsktxhmkpcts
+Length:			20
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 42402
+Current Line:	ltrkvbzlnccrmrsfmjrbfjrh75
+Length:			26
+Digits are 7, 5
+Calibration num: 75
+Current Sum = 42477
+Current Line:	cbxfpfsix8lkbqh
+Length:			15
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 42565
+Current Line:	9mseven7fivefivexdjxct5
+Length:			23
+Digits are 9, 5
+Calibration num: 95
+Current Sum = 42660
+Current Line:	9sevenklrvhclkrfourtwo96four
+Length:			28
+Digits are 9, 6
+Calibration num: 96
+Current Sum = 42756
+Current Line:	2pkbthree
+Length:			9
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 42778
+Current Line:	kqpbhjxzfn147
+Length:			13
+Digits are 1, 7
+Calibration num: 17
+Current Sum = 42795
+Current Line:	nineqnjxrmq2gnineh
+Length:			18
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 42817
+Current Line:	5sixcrtgqqlqflm
+Length:			15
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 42872
+Current Line:	9fourzjzmhmnksxc
+Length:			16
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 42971
+Current Line:	four86rdndxscqnjcxghnvgmzp3
+Length:			27
+Digits are 8, 3
+Calibration num: 83
+Current Sum = 43054
+Current Line:	mqmfive98eightmbxrgddqbbqone
+Length:			28
+Digits are 9, 8
+Calibration num: 98
+Current Sum = 43152
+Current Line:	gtb66rbclkxdl4spzpgqmkdh3
+Length:			25
+Digits are 6, 3
+Calibration num: 63
+Current Sum = 43215
+Current Line:	965two
+Length:			6
+Digits are 9, 5
+Calibration num: 95
+Current Sum = 43310
+Current Line:	96pskqjvckxffkone8four4
+Length:			23
+Digits are 9, 4
+Calibration num: 94
+Current Sum = 43404
+Current Line:	three9xlf1
+Length:			10
+Digits are 9, 1
+Calibration num: 91
+Current Sum = 43495
+Current Line:	spczeight9dvg
+Length:			13
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 43594
+Current Line:	v6two
+Length:			5
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 43660
+Current Line:	pgksdtnkbbninef5zttwo2seven
+Length:			27
+Digits are 5, 2
+Calibration num: 52
+Current Sum = 43712
+Current Line:	4gnvxkc
+Length:			7
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 43756
+Current Line:	9four43sixtwofzf
+Length:			16
+Digits are 9, 3
+Calibration num: 93
+Current Sum = 43849
+Current Line:	3xsbfcsixsix4eighteight2one
+Length:			27
+Digits are 3, 2
+Calibration num: 32
+Current Sum = 43881
+Current Line:	3oneeighttwo
+Length:			12
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 43914
+Current Line:	ptwonetwoskjsspjhmxrmvlzcqz572fourmpxx
+Length:			38
+Digits are 5, 2
+Calibration num: 52
+Current Sum = 43966
+Current Line:	threeonetwotwo2
+Length:			15
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 43988
+Current Line:	slcseven1xtxbpfb
+Length:			16
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 43999
+Current Line:	peightwothree7pdmktbcfouroneninekrf6two
+Length:			39
+Digits are 7, 6
+Calibration num: 76
+Current Sum = 44075
+Current Line:	668
+Length:			3
+Digits are 6, 8
+Calibration num: 68
+Current Sum = 44143
+Current Line:	lxshscpkv8fmhcpslhpp
+Length:			20
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 44231
+Current Line:	tzrdone7onethreectwo
+Length:			20
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 44308
+Current Line:	8pkkpdmzhfourcmjljfour73hhqqmfc
+Length:			31
+Digits are 8, 3
+Calibration num: 83
+Current Sum = 44391
+Current Line:	one71ninesix8oneighthlx
+Length:			23
+Digits are 7, 8
+Calibration num: 78
+Current Sum = 44469
+Current Line:	72pjpmfcgjhvsixksgrjthreegcspcdxchxkxflmh
+Length:			41
+Digits are 7, 2
+Calibration num: 72
+Current Sum = 44541
+Current Line:	4bzr98threeksb
+Length:			14
+Digits are 4, 8
+Calibration num: 48
+Current Sum = 44589
+Current Line:	9one6xdfcsvbbqfour
+Length:			18
+Digits are 9, 6
+Calibration num: 96
+Current Sum = 44685
+Current Line:	hr5eight33
+Length:			10
+Digits are 5, 3
+Calibration num: 53
+Current Sum = 44738
+Current Line:	zgsvc9
+Length:			6
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 44837
+Current Line:	71hfourtch395pvnzsmhdf
+Length:			22
+Digits are 7, 5
+Calibration num: 75
+Current Sum = 44912
+Current Line:	zsvppvgzllgf22
+Length:			14
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 44934
+Current Line:	threebkkrcqzvnt4rjblsnsixninetrjgjjvlv2
+Length:			39
+Digits are 4, 2
+Calibration num: 42
+Current Sum = 44976
+Current Line:	289
+Length:			3
+Digits are 2, 9
+Calibration num: 29
+Current Sum = 45005
+Current Line:	krqdkcfbpp48fivefour
+Length:			20
+Digits are 4, 8
+Calibration num: 48
+Current Sum = 45053
+Current Line:	five7tgpt5flkone
+Length:			16
+Digits are 7, 5
+Calibration num: 75
+Current Sum = 45128
+Current Line:	eightfive31twoghnqffp6
+Length:			22
+Digits are 3, 6
+Calibration num: 36
+Current Sum = 45164
+Current Line:	eightseven6oneckpsixtwo1
+Length:			24
+Digits are 6, 1
+Calibration num: 61
+Current Sum = 45225
+Current Line:	4l4
+Length:			3
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 45269
+Current Line:	4sevenxzdnprlcjrfive
+Length:			20
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 45313
+Current Line:	68vntztlbjqtqkstsp7lkhcgpbtdmzrndsix
+Length:			36
+Digits are 6, 7
+Calibration num: 67
+Current Sum = 45380
+Current Line:	onesix2
+Length:			7
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 45402
+Current Line:	sixhc4hhglhp7281h
+Length:			17
+Digits are 4, 1
+Calibration num: 41
+Current Sum = 45443
+Current Line:	3zvhhv
+Length:			6
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 45476
+Current Line:	lmfsqtnzfk52qrdh
+Length:			16
+Digits are 5, 2
+Calibration num: 52
+Current Sum = 45528
+Current Line:	fourbvnsjfjfive87seven1
+Length:			23
+Digits are 8, 1
+Calibration num: 81
+Current Sum = 45609
+Current Line:	twoonesixsix1twodxjdkdeight
+Length:			27
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 45620
+Current Line:	nnine3
+Length:			6
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 45653
+Current Line:	ccclkfdb2lftfhnjcqd
+Length:			19
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 45675
+Current Line:	1q
+Length:			2
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 45686
+Current Line:	gtcdzjhfv8p9
+Length:			12
+Digits are 8, 9
+Calibration num: 89
+Current Sum = 45775
+Current Line:	fivefqxrfourtwo62eighthdcsqrmxjv
+Length:			32
+Digits are 6, 2
+Calibration num: 62
+Current Sum = 45837
+Current Line:	one556mgtsdvkqfiveseventwo3
+Length:			27
+Digits are 5, 3
+Calibration num: 53
+Current Sum = 45890
+Current Line:	mvkrxnj34psqtwojhrdjgthree5
+Length:			27
+Digits are 3, 5
+Calibration num: 35
+Current Sum = 45925
+Current Line:	sevencndnndjfzp2eightqcbhvb
+Length:			27
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 45947
+Current Line:	eighttbvvck2fiveone6vkljmslcrsghk
+Length:			33
+Digits are 2, 6
+Calibration num: 26
+Current Sum = 45973
+Current Line:	tqdhnzfrr6fourzf
+Length:			16
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 46039
+Current Line:	ninecqxgkbsv7
+Length:			13
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 46116
+Current Line:	8nsl4sixnxrcdhtkeight3
+Length:			22
+Digits are 8, 3
+Calibration num: 83
+Current Sum = 46199
+Current Line:	sevenxsczhz6dv4sc9brxnsms
+Length:			25
+Digits are 6, 9
+Calibration num: 69
+Current Sum = 46268
+Current Line:	5glknvqzlqvmzvnzrb1
+Length:			19
+Digits are 5, 1
+Calibration num: 51
+Current Sum = 46319
+Current Line:	5oneqcshgqbfp1
+Length:			14
+Digits are 5, 1
+Calibration num: 51
+Current Sum = 46370
+Current Line:	5two1sixsevenjpgnbvjpcgd1eightwoh
+Length:			33
+Digits are 5, 1
+Calibration num: 51
+Current Sum = 46421
+Current Line:	2qglrzsxz
+Length:			9
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 46443
+Current Line:	fpdthreek2
+Length:			10
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 46465
+Current Line:	gplr51sevenfg34jhhp
+Length:			19
+Digits are 5, 4
+Calibration num: 54
+Current Sum = 46519
+Current Line:	six78tbzz
+Length:			9
+Digits are 7, 8
+Calibration num: 78
+Current Sum = 46597
+Current Line:	hntwonethreergcp7
+Length:			17
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 46674
+Current Line:	59fivefive5
+Length:			11
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 46729
+Current Line:	threezfjxxtqrvhjcdkjsevenhgp44fivetphhfbdtxs
+Length:			44
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 46773
+Current Line:	njkd2dcddfzpvpfqp
+Length:			17
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 46795
+Current Line:	3sixgnnl
+Length:			8
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 46828
+Current Line:	6ninefdqzfpxspsnzs13gz4
+Length:			23
+Digits are 6, 4
+Calibration num: 64
+Current Sum = 46892
+Current Line:	3four66one
+Length:			10
+Digits are 3, 6
+Calibration num: 36
+Current Sum = 46928
+Current Line:	fivesevenczmt22nfvnxhbvgjtvjmdzhfqhxtthree
+Length:			42
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 46950
+Current Line:	sttx4gktnine5vlqjzddkr
+Length:			22
+Digits are 4, 5
+Calibration num: 45
+Current Sum = 46995
+Current Line:	4fivejpsscfqdtgjmtvrljdseveneight
+Length:			33
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 47039
+Current Line:	xtfqvnpsfnfppx12rvcldvkhbb
+Length:			26
+Digits are 1, 2
+Calibration num: 12
+Current Sum = 47051
+Current Line:	62hj4oneqlp4seven
+Length:			17
+Digits are 6, 4
+Calibration num: 64
+Current Sum = 47115
+Current Line:	6hdnlgrfdccsqsxjqrv
+Length:			19
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 47181
+Current Line:	331
+Length:			3
+Digits are 3, 1
+Calibration num: 31
+Current Sum = 47212
+Current Line:	nine6eight
+Length:			10
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 47278
+Current Line:	two6mbfdmgpfourng
+Length:			17
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 47344
+Current Line:	fmnv3three3
+Length:			11
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 47377
+Current Line:	nine5hvzkrjtwo
+Length:			14
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 47432
+Current Line:	6eight73
+Length:			8
+Digits are 6, 3
+Calibration num: 63
+Current Sum = 47495
+Current Line:	fourfive79six7two1
+Length:			18
+Digits are 7, 1
+Calibration num: 71
+Current Sum = 47566
+Current Line:	thzhjrfsfoureight53
+Length:			19
+Digits are 5, 3
+Calibration num: 53
+Current Sum = 47619
+Current Line:	1lzfxgvtxgdxtsixffptldz1srgsnvtpnsevensix
+Length:			41
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 47630
+Current Line:	seven8onertbqhthreefourctdbsrcvcsjlvcxneight
+Length:			44
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 47718
+Current Line:	5eightfive3
+Length:			11
+Digits are 5, 3
+Calibration num: 53
+Current Sum = 47771
+Current Line:	6phjbkvrjd
+Length:			10
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 47837
+Current Line:	gssfoursevengvtfznklj97
+Length:			23
+Digits are 9, 7
+Calibration num: 97
+Current Sum = 47934
+Current Line:	fivemgrddqslp3
+Length:			14
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 47967
+Current Line:	ninetwo6sixpv
+Length:			13
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 48033
+Current Line:	lhdjm82tlnqrxqtvd
+Length:			17
+Digits are 8, 2
+Calibration num: 82
+Current Sum = 48115
+Current Line:	six7hpcjqnrszkfiveftvjnhjsevendqmmr
+Length:			35
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 48192
+Current Line:	m2cjfjcb
+Length:			8
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 48214
+Current Line:	thfive27fjnshtwo
+Length:			16
+Digits are 2, 7
+Calibration num: 27
+Current Sum = 48241
+Current Line:	vmzxlq7
+Length:			7
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 48318
+Current Line:	xlg3nine
+Length:			8
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 48351
+Current Line:	schnfive33sevenninedhpjfrsixeightwoxr
+Length:			37
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 48384
+Current Line:	bmnine3mgrttsevennvhtdszmtxoneone
+Length:			33
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 48417
+Current Line:	zgkqdrvfjtg1sixbsqgdjfivelnrmpqqstv6seven
+Length:			41
+Digits are 1, 6
+Calibration num: 16
+Current Sum = 48433
+Current Line:	ljln11fourgjgvfmhmninekdlpjmrn
+Length:			30
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 48444
+Current Line:	jffhrkpm22sbnsrpxg9three
+Length:			24
+Digits are 2, 9
+Calibration num: 29
+Current Sum = 48473
+Current Line:	fourtwo1sixjvv55ttflnvshb
+Length:			25
+Digits are 1, 5
+Calibration num: 15
+Current Sum = 48488
+Current Line:	xgndhkmdnxgrhqh4lm
+Length:			18
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 48532
+Current Line:	87five6nineddnrzd
+Length:			17
+Digits are 8, 6
+Calibration num: 86
+Current Sum = 48618
+Current Line:	9pmmddvffivesix3one37
+Length:			21
+Digits are 9, 7
+Calibration num: 97
+Current Sum = 48715
+Current Line:	2flddmzcjbfrbdxzhvhsrx16twonej
+Length:			30
+Digits are 2, 6
+Calibration num: 26
+Current Sum = 48741
+Current Line:	knzfrseven71fjzhmdznfthree
+Length:			26
+Digits are 7, 1
+Calibration num: 71
+Current Sum = 48812
+Current Line:	9five84dfj
+Length:			10
+Digits are 9, 4
+Calibration num: 94
+Current Sum = 48906
+Current Line:	sevenc1qhxqhgl
+Length:			14
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 48917
+Current Line:	flkdskjjzmqtcmljkone49ljffjtxhs9eightwopq
+Length:			41
+Digits are 4, 9
+Calibration num: 49
+Current Sum = 48966
+Current Line:	qhhktqkdfjzth5eight6
+Length:			20
+Digits are 5, 6
+Calibration num: 56
+Current Sum = 49022
+Current Line:	sevensixmvvrzhsixsixsix9
+Length:			24
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 49121
+Current Line:	2241
+Length:			4
+Digits are 2, 1
+Calibration num: 21
+Current Sum = 49142
+Current Line:	1xzjfpjkkcltvznzzfrh
+Length:			20
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 49153
+Current Line:	jrvcznlvfgntthree5fivejqrheightwoxkh
+Length:			36
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 49208
+Current Line:	lqxtk1oneone3rkfive
+Length:			19
+Digits are 1, 3
+Calibration num: 13
+Current Sum = 49221
+Current Line:	hqjbpqjeight3588
+Length:			16
+Digits are 3, 8
+Calibration num: 38
+Current Sum = 49259
+Current Line:	one96sixkbgcx6zhmnine
+Length:			21
+Digits are 9, 6
+Calibration num: 96
+Current Sum = 49355
+Current Line:	eight77six
+Length:			10
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 49432
+Current Line:	four46nine31five3five
+Length:			21
+Digits are 4, 3
+Calibration num: 43
+Current Sum = 49475
+Current Line:	lhd8two7dhthqhbzvlknvtrlfthreeninethreetwonez
+Length:			45
+Digits are 8, 7
+Calibration num: 87
+Current Sum = 49562
+Current Line:	5cdgllrdsspnninerxdphcsstt
+Length:			26
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 49617
+Current Line:	s9twosixonezcrfmcd
+Length:			18
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 49716
+Current Line:	dtqfrnrtdn2threespcfh
+Length:			21
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 49738
+Current Line:	113six
+Length:			6
+Digits are 1, 3
+Calibration num: 13
+Current Sum = 49751
+Current Line:	onefkznlfjpkfivethree47three
+Length:			28
+Digits are 4, 7
+Calibration num: 47
+Current Sum = 49798
+Current Line:	f4hlxdlndqp4blmbzxfvone
+Length:			23
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 49842
+Current Line:	czsdseven22ht9threepmfhdpq
+Length:			26
+Digits are 2, 9
+Calibration num: 29
+Current Sum = 49871
+Current Line:	7mdvchlcpn
+Length:			10
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 49948
+Current Line:	5ssxkrgvhthmleight
+Length:			18
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 50003
+Current Line:	seven13four7fiveq
+Length:			17
+Digits are 1, 7
+Calibration num: 17
+Current Sum = 50020
+Current Line:	threetcstlhfcqdfhjgccckcvk1hjlpmmkjmr8six
+Length:			41
+Digits are 1, 8
+Calibration num: 18
+Current Sum = 50038
+Current Line:	sljoneightg8fourfrsfbgfktr
+Length:			26
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 50126
+Current Line:	jfeightwolzcmztqeighttftr3oneonefour
+Length:			36
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 50159
+Current Line:	four7tdkq8threeeightfcgpddp
+Length:			27
+Digits are 7, 8
+Calibration num: 78
+Current Sum = 50237
+Current Line:	drj3vlj5tcjsfbzffcmmqmgtt5
+Length:			26
+Digits are 3, 5
+Calibration num: 35
+Current Sum = 50272
+Current Line:	82
+Length:			2
+Digits are 8, 2
+Calibration num: 82
+Current Sum = 50354
+Current Line:	jsvzmkqrlkkvfmdxjrshhnsixseven53three
+Length:			37
+Digits are 5, 3
+Calibration num: 53
+Current Sum = 50407
+Current Line:	seven1twoninebdpb4
+Length:			18
+Digits are 1, 4
+Calibration num: 14
+Current Sum = 50421
+Current Line:	bjhtgqbfnccspgzbhlqgdzfznxhsixgdfkg91two
+Length:			40
+Digits are 9, 1
+Calibration num: 91
+Current Sum = 50512
+Current Line:	fqzrrbchbmhrneightclvd1
+Length:			23
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 50523
+Current Line:	sixeightseven1rlnlqlm
+Length:			21
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 50534
+Current Line:	pxxtd793frjfckbhstcdhsrx58mksktwoneqx
+Length:			37
+Digits are 7, 8
+Calibration num: 78
+Current Sum = 50612
+Current Line:	zccxxqcfglnnrxdonefivevxtxgzgkh51
+Length:			33
+Digits are 5, 1
+Calibration num: 51
+Current Sum = 50663
+Current Line:	fivenzrmrjfpjhxhkxthtkdrqfthree2twoeight
+Length:			40
+Digits are 2, 2
+Calibration num: 22
+Current Sum = 50685
+Current Line:	kzjn9fourqmglnxmqfivenfg51
+Length:			26
+Digits are 9, 1
+Calibration num: 91
+Current Sum = 50776
+Current Line:	cxeightwo8lzqcdlmbgt5
+Length:			21
+Digits are 8, 5
+Calibration num: 85
+Current Sum = 50861
+Current Line:	fivekmfkjnqseven9jlts4
+Length:			22
+Digits are 9, 4
+Calibration num: 94
+Current Sum = 50955
+Current Line:	724dtlznnqtthreeeight54one
+Length:			26
+Digits are 7, 4
+Calibration num: 74
+Current Sum = 51029
+Current Line:	7ninesevennine
+Length:			14
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 51106
+Current Line:	dj5zhmxtgsdpzlkzcbvnldeight3kk5mmvs
+Length:			35
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 51161
+Current Line:	19hczk
+Length:			6
+Digits are 1, 9
+Calibration num: 19
+Current Sum = 51180
+Current Line:	3sevenhlkttqsqllsbplone
+Length:			23
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 51213
+Current Line:	fourtzlbxhvt7ht54dvtkdprljj9
+Length:			28
+Digits are 7, 9
+Calibration num: 79
+Current Sum = 51292
+Current Line:	fourmvpzqjnb2hmhc3zjvlgrxsm
+Length:			27
+Digits are 2, 3
+Calibration num: 23
+Current Sum = 51315
+Current Line:	onekqjtd8five
+Length:			13
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 51403
+Current Line:	82rbnsg48twoseven
+Length:			17
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 51491
+Current Line:	four352
+Length:			7
+Digits are 3, 2
+Calibration num: 32
+Current Sum = 51523
+Current Line:	2rlxcfoursixczbvb9
+Length:			18
+Digits are 2, 9
+Calibration num: 29
+Current Sum = 51552
+Current Line:	5fourjxggrtg9bmrlnmmhsgtwo96
+Length:			28
+Digits are 5, 6
+Calibration num: 56
+Current Sum = 51608
+Current Line:	8nd2foureight7qg5nine
+Length:			21
+Digits are 8, 5
+Calibration num: 85
+Current Sum = 51693
+Current Line:	8twozx
+Length:			6
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 51781
+Current Line:	rpfmg3twoeight87
+Length:			16
+Digits are 3, 7
+Calibration num: 37
+Current Sum = 51818
+Current Line:	13five5
+Length:			7
+Digits are 1, 5
+Calibration num: 15
+Current Sum = 51833
+Current Line:	one39six55ninenhhdd
+Length:			19
+Digits are 3, 5
+Calibration num: 35
+Current Sum = 51868
+Current Line:	9eightnineone
+Length:			13
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 51967
+Current Line:	321fivefour
+Length:			11
+Digits are 3, 1
+Calibration num: 31
+Current Sum = 51998
+Current Line:	531sevenhxznfmdxnxfptkbcfpn84xtjrbrmbxk
+Length:			39
+Digits are 5, 4
+Calibration num: 54
+Current Sum = 52052
+Current Line:	5tqkzdf6
+Length:			8
+Digits are 5, 6
+Calibration num: 56
+Current Sum = 52108
+Current Line:	sevenlnmnzh35fivetwotrbnknfive
+Length:			30
+Digits are 3, 5
+Calibration num: 35
+Current Sum = 52143
+Current Line:	qjqbcbhlqfive8mfmxdssvtdhq
+Length:			26
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 52231
+Current Line:	threesixlxmhgzxxjxrgmxzqprl7
+Length:			28
+Digits are 7, 7
+Calibration num: 77
+Current Sum = 52308
+Current Line:	24nnjmxxkbxjmmdssdpb8twotwoone
+Length:			30
+Digits are 2, 8
+Calibration num: 28
+Current Sum = 52336
+Current Line:	9four7
+Length:			6
+Digits are 9, 7
+Calibration num: 97
+Current Sum = 52433
+Current Line:	9sixtgj29eight8
+Length:			15
+Digits are 9, 8
+Calibration num: 98
+Current Sum = 52531
+Current Line:	fivebvzrbftvvdzd5nctrmjmbx5eight3
+Length:			33
+Digits are 5, 3
+Calibration num: 53
+Current Sum = 52584
+Current Line:	4threedfzlzxfprzqpkzmlnsix9four
+Length:			31
+Digits are 4, 9
+Calibration num: 49
+Current Sum = 52633
+Current Line:	qbqjfbqthxvhnine99five7kgqm
+Length:			27
+Digits are 9, 7
+Calibration num: 97
+Current Sum = 52730
+Current Line:	pdvcpcdvjninethreethreeseven5
+Length:			29
+Digits are 5, 5
+Calibration num: 55
+Current Sum = 52785
+Current Line:	ninelrsshpxvb32trfrhnnbkseven5
+Length:			30
+Digits are 3, 5
+Calibration num: 35
+Current Sum = 52820
+Current Line:	1zktcvtrknt
+Length:			11
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 52831
+Current Line:	tbxt59dfqzxcdj
+Length:			14
+Digits are 5, 9
+Calibration num: 59
+Current Sum = 52890
+Current Line:	zclzlgcmkneightzskgbg62five
+Length:			27
+Digits are 6, 2
+Calibration num: 62
+Current Sum = 52952
+Current Line:	vlhtm4gsjtcvkkprsix1sixmdkxlgp76
+Length:			32
+Digits are 4, 6
+Calibration num: 46
+Current Sum = 52998
+Current Line:	vxgmnjsixfivesix69threejlrrcc
+Length:			29
+Digits are 6, 9
+Calibration num: 69
+Current Sum = 53067
+Current Line:	onefive5sevenfhvsbfpcxbqn1one1
+Length:			30
+Digits are 5, 1
+Calibration num: 51
+Current Sum = 53118
+Current Line:	rlxrbhtwobmhfcgnmtg6zlgz95sncg
+Length:			30
+Digits are 6, 5
+Calibration num: 65
+Current Sum = 53183
+Current Line:	6tgsl
+Length:			5
+Digits are 6, 6
+Calibration num: 66
+Current Sum = 53249
+Current Line:	mjsjpone9
+Length:			9
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 53348
+Current Line:	rsqfmseven5qqhrxhfxf6twohnxjgh66
+Length:			32
+Digits are 5, 6
+Calibration num: 56
+Current Sum = 53404
+Current Line:	xbfqgxkxmninegmhcrcmxgllktllbqpsvrfthree9
+Length:			41
+Digits are 9, 9
+Calibration num: 99
+Current Sum = 53503
+Current Line:	2one7kthlnfive3kq
+Length:			17
+Digits are 2, 3
+Calibration num: 23
+Current Sum = 53526
+Current Line:	sixfour8lztglpvfv5
+Length:			18
+Digits are 8, 5
+Calibration num: 85
+Current Sum = 53611
+Current Line:	bjcrvvglvjn1
+Length:			12
+Digits are 1, 1
+Calibration num: 11
+Current Sum = 53622
+Current Line:	3mlfdone42
+Length:			10
+Digits are 3, 2
+Calibration num: 32
+Current Sum = 53654
+Current Line:	4one5twoxqfcflcbjqsixeightdlknnzdbzlrqfkhvm
+Length:			43
+Digits are 4, 5
+Calibration num: 45
+Current Sum = 53699
+Current Line:	cfpnhsgs956
+Length:			11
+Digits are 9, 6
+Calibration num: 96
+Current Sum = 53795
+Current Line:	xsdm7lhcjzk3hstcf
+Length:			17
+Digits are 7, 3
+Calibration num: 73
+Current Sum = 53868
+Current Line:	9fourcsjph86shfqjrxlfourninev
+Length:			29
+Digits are 9, 6
+Calibration num: 96
+Current Sum = 53964
+Current Line:	bgcxqff8
+Length:			8
+Digits are 8, 8
+Calibration num: 88
+Current Sum = 54052
+Current Line:	4eightv51
+Length:			9
+Digits are 4, 1
+Calibration num: 41
+Current Sum = 54093
+Current Line:	six6two4lvtjt61
+Length:			15
+Digits are 6, 1
+Calibration num: 61
+Current Sum = 54154
+Current Line:	44kmn
+Length:			5
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 54198
+Current Line:	rbgfivefive3eightthree
+Length:			22
+Digits are 3, 3
+Calibration num: 33
+Current Sum = 54231
+Current Line:	three4nhvblteightfour
+Length:			21
+Digits are 4, 4
+Calibration num: 44
+Current Sum = 54275
+Current Line:	2six64rjmcvvxshxjlndj
+Length:			21
+Digits are 2, 4
+Calibration num: 24
+Current Sum = 54299
+Current Line:	3nine4fourjclspd152rpv
+Length:			22
+Digits are 3, 2
+Calibration num: 32
+Current Sum = 54331
+
+
+Sum: 54331
